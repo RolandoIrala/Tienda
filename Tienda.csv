@@ -1,0 +1,1500 @@
+﻿Fecha,Vendedor,Distribuidor,Marca,Operador,Cantidad
+18/6/2017,Rodrigo,Saga Falabella,Samsung,Claro,12.00
+29/7/2017,Rodrigo,Saga Falabella,LG,Claro,12.00
+19/8/2015,Rodrigo,Oeschle,Samsung,Claro,1.00
+22/7/2016,Rodrigo,Plaza Vea,Nokia,Claro,14.00
+10/5/2017,Rodrigo,Metro,LG,Entel,85.00
+25/12/2014,Alfonso,Tottus,Samsung,Tuenti,99.00
+12/5/2018,Alfonso,Metro,LG,Bitel,67.00
+12/3/2015,Alfonso,Ripley,LG,Bitel,16.00
+7/7/2015,Alfonso,Saga Falabella,Apple,Bitel,16.00
+10/9/2014,Alfonso,Metro,Samsung,Movistar,10.00
+28/7/2014,Rodrigo,Tottus,Samsung,Movistar,15.00
+12/4/2014,Milenka,Plaza Vea,Nokia,Tuenti,132.00
+14/5/2017,Milenka,Plaza Vea,Motorola,Movistar,6.00
+16/8/2017,Milenka,Tottus,Samsung,Entel,110.00
+20/5/2016,Milenka,Plaza Vea,Motorola,Bitel,18.00
+4/11/2018,Alfonso,Oeschle,Nokia,Tuenti,82.00
+9/4/2016,Alfonso,Oeschle,Nokia,Tuenti,40.00
+30/12/2016,Sandra,Oeschle,LG,Claro,79.00
+29/6/2014,Sandra,Plaza Vea,Nokia,Claro,50.00
+28/4/2015,Milenka,Metro,LG,Claro,1.00
+26/8/2018,Sandra,Ripley,Samsung,Entel,64.00
+15/8/2016,Sandra,Oeschle,LG,Tuenti,26.00
+2/3/2016,Sandra,Oeschle,Samsung,Claro,39.00
+10/10/2016,Joaquin,Ripley,LG,Claro,7.00
+19/9/2015,Sandra,Saga Falabella,Apple,Tuenti,16.00
+10/12/2018,Milenka,Oeschle,LG,Bitel,121.00
+11/9/2016,Rodrigo,Tottus,Motorola,Bitel,178.00
+17/6/2014,Sandra,Metro,Motorola,Bitel,41.00
+2/12/2014,Sandra,Oeschle,Motorola,Tuenti,75.00
+3/8/2014,Joaquin,Oeschle,Samsung,Movistar,37.00
+1/4/2017,Sandra,Metro,LG,Entel,58.00
+23/3/2016,Milenka,Plaza Vea,LG,Claro,34.00
+26/7/2018,Alfonso,Oeschle,LG,Tuenti,220.00
+15/4/2015,Sandra,Plaza Vea,Huawei,Movistar,17.00
+24/9/2018,Milenka,Tottus,LG,Bitel,128.00
+10/3/2014,Alfonso,Saga Falabella,Huawei,Tuenti,39.00
+22/12/2014,Joaquin,Plaza Vea,Apple,Bitel,60.00
+29/12/2017,Milenka,Saga Falabella,LG,Claro,13.00
+22/11/2016,Sandra,Saga Falabella,Motorola,Claro,13.00
+27/7/2015,Sandra,Tottus,LG,Tuenti,61.00
+30/5/2015,Rodrigo,Oeschle,Nokia,Movistar,45.00
+31/7/2014,Joaquin,Saga Falabella,Apple,Claro,16.00
+1/11/2018,Joaquin,Plaza Vea,Motorola,Movistar,35.00
+15/9/2017,Alfonso,Metro,LG,Movistar,28.00
+15/2/2015,Milenka,Oeschle,Samsung,Bitel,41.00
+16/5/2018,Rodrigo,Plaza Vea,LG,Bitel,23.00
+5/2/2014,Rodrigo,Saga Falabella,Nokia,Entel,8.00
+21/1/2017,Rodrigo,Plaza Vea,LG,Bitel,26.00
+7/12/2015,Joaquin,Metro,LG,Claro,52.00
+18/4/2015,Joaquin,Metro,Samsung,Entel,114.00
+8/1/2017,Rodrigo,Oeschle,Samsung,Claro,91.00
+17/5/2017,Rodrigo,Metro,Nokia,Tuenti,102.00
+23/2/2016,Fabiola,Saga Falabella,Nokia,Movistar,4.00
+2/10/2017,Sandra,Oeschle,LG,Movistar,18.00
+5/9/2015,Fabiola,Tottus,Huawei,Tuenti,28.00
+19/8/2018,Rodrigo,Saga Falabella,Apple,Entel,31.00
+16/7/2017,Alfonso,Saga Falabella,Samsung,Movistar,2.00
+26/9/2018,Rodrigo,Metro,Samsung,Claro,30.00
+7/1/2018,Sandra,Tottus,LG,Claro,67.00
+27/7/2018,Alfonso,Metro,Nokia,Movistar,3.00
+19/2/2015,Alfonso,Saga Falabella,Samsung,Tuenti,11.00
+23/8/2018,Rodrigo,Metro,Apple,Entel,44.00
+26/10/2015,Fabiola,Ripley,LG,Bitel,9.00
+22/11/2015,Fabiola,Oeschle,Nokia,Claro,78.00
+8/4/2016,Joaquin,Tottus,Samsung,Tuenti,140.00
+21/5/2016,Sandra,Plaza Vea,LG,Bitel,64.00
+17/2/2018,Rodrigo,Metro,Samsung,Tuenti,111.00
+13/4/2017,Rodrigo,Metro,Apple,Entel,92.00
+11/4/2015,Sandra,Tottus,Samsung,Movistar,51.00
+18/4/2017,Fabiola,Metro,LG,Entel,34.00
+7/9/2015,Alfonso,Tottus,LG,Tuenti,139.00
+27/6/2014,Rodrigo,Metro,Apple,Tuenti,86.00
+7/11/2017,Fabiola,Ripley,Samsung,Claro,15.00
+23/4/2018,Fabiola,Tottus,Huawei,Movistar,46.00
+13/2/2014,Fabiola,Oeschle,Motorola,Movistar,4.00
+9/6/2017,Fabiola,Plaza Vea,Samsung,Movistar,16.00
+31/10/2017,Milenka,Metro,Samsung,Bitel,53.00
+29/12/2016,Milenka,Tottus,Samsung,Bitel,15.00
+10/6/2017,Rodrigo,Tottus,LG,Bitel,16.00
+25/12/2015,Joaquin,Saga Falabella,LG,Entel,1.00
+5/2/2015,Milenka,Oeschle,Apple,Bitel,117.00
+21/9/2017,Milenka,Tottus,Huawei,Movistar,29.00
+6/10/2014,Milenka,Ripley,Apple,Entel,55.00
+16/1/2015,Alfonso,Ripley,Huawei,Movistar,1.00
+5/9/2014,Alfonso,Oeschle,LG,Movistar,6.00
+7/6/2018,Alfonso,Saga Falabella,LG,Bitel,20.00
+12/11/2016,Rodrigo,Saga Falabella,Apple,Claro,12.00
+21/2/2017,Fabiola,Metro,Apple,Claro,33.00
+23/9/2018,Fabiola,Metro,Nokia,Tuenti,64.00
+2/4/2015,Fabiola,Plaza Vea,Motorola,Movistar,1.00
+28/2/2015,Fabiola,Plaza Vea,Samsung,Claro,9.00
+1/2/2018,Milenka,Saga Falabella,Nokia,Tuenti,23.00
+15/1/2017,Rodrigo,Plaza Vea,Motorola,Bitel,56.00
+1/6/2017,Rodrigo,Metro,Samsung,Movistar,25.00
+20/7/2015,Joaquin,Plaza Vea,Motorola,Claro,51.00
+12/5/2018,Sandra,Metro,Apple,Bitel,63.00
+13/7/2016,Alfonso,Saga Falabella,Samsung,Movistar,1.00
+23/2/2018,Milenka,Ripley,Apple,Tuenti,60.00
+21/11/2015,Milenka,Metro,LG,Entel,56.00
+5/8/2015,Rodrigo,Oeschle,Samsung,Entel,171.00
+7/12/2017,Rodrigo,Oeschle,Huawei,Tuenti,3.00
+15/7/2017,Rodrigo,Tottus,Apple,Entel,24.00
+10/5/2015,Alfonso,Tottus,Samsung,Movistar,50.00
+12/7/2017,Alfonso,Ripley,Samsung,Tuenti,79.00
+14/8/2017,Alfonso,Oeschle,Apple,Bitel,114.00
+10/10/2014,Sandra,Saga Falabella,LG,Claro,5.00
+17/3/2015,Fabiola,Ripley,LG,Entel,8.00
+11/11/2016,Alfonso,Oeschle,Huawei,Tuenti,188.00
+2/8/2015,Rodrigo,Saga Falabella,Samsung,Claro,6.00
+12/9/2017,Joaquin,Saga Falabella,Motorola,Movistar,4.00
+17/6/2018,Alfonso,Tottus,Nokia,Claro,39.00
+12/1/2018,Joaquin,Oeschle,Nokia,Bitel,134.00
+18/4/2014,Alfonso,Metro,Samsung,Bitel,59.00
+29/7/2017,Sandra,Plaza Vea,Samsung,Bitel,8.00
+3/4/2018,Rodrigo,Tottus,Nokia,Bitel,136.00
+16/3/2015,Sandra,Saga Falabella,Motorola,Claro,2.00
+23/9/2014,Fabiola,Metro,Motorola,Movistar,28.00
+31/7/2018,Sandra,Ripley,LG,Entel,18.00
+12/3/2016,Sandra,Metro,Huawei,Movistar,28.00
+28/10/2016,Rodrigo,Ripley,LG,Bitel,9.00
+21/8/2014,Milenka,Ripley,LG,Movistar,14.00
+11/3/2014,Rodrigo,Saga Falabella,Apple,Entel,33.00
+30/3/2017,Rodrigo,Plaza Vea,Samsung,Entel,33.00
+10/12/2014,Fabiola,Metro,LG,Entel,18.00
+24/3/2017,Fabiola,Plaza Vea,Huawei,Tuenti,85.00
+22/6/2015,Joaquin,Tottus,Samsung,Tuenti,82.00
+16/9/2014,Rodrigo,Metro,Samsung,Bitel,70.00
+8/9/2015,Joaquin,Ripley,LG,Claro,5.00
+12/2/2016,Milenka,Plaza Vea,Nokia,Movistar,16.00
+3/8/2015,Rodrigo,Oeschle,Motorola,Claro,26.00
+1/7/2016,Alfonso,Oeschle,Apple,Entel,1.00
+3/9/2017,Rodrigo,Saga Falabella,Nokia,Entel,7.00
+1/6/2018,Joaquin,Saga Falabella,Huawei,Tuenti,29.00
+8/10/2018,Sandra,Ripley,LG,Claro,17.00
+7/1/2018,Sandra,Saga Falabella,LG,Claro,3.00
+28/4/2018,Fabiola,Tottus,LG,Tuenti,149.00
+13/8/2018,Rodrigo,Ripley,Samsung,Tuenti,71.00
+4/1/2016,Milenka,Tottus,Samsung,Claro,86.00
+29/9/2018,Rodrigo,Plaza Vea,Huawei,Bitel,2.00
+31/7/2015,Rodrigo,Oeschle,Nokia,Claro,6.00
+24/7/2016,Alfonso,Tottus,Samsung,Claro,83.00
+10/8/2014,Rodrigo,Saga Falabella,Apple,Claro,6.00
+20/12/2014,Alfonso,Saga Falabella,Huawei,Tuenti,35.00
+6/10/2018,Alfonso,Saga Falabella,Motorola,Bitel,2.00
+21/6/2015,Milenka,Oeschle,Samsung,Bitel,57.00
+19/3/2018,Rodrigo,Ripley,Apple,Entel,39.00
+4/7/2018,Fabiola,Metro,LG,Tuenti,148.00
+16/12/2014,Milenka,Tottus,LG,Movistar,57.00
+4/12/2017,Alfonso,Metro,LG,Tuenti,40.00
+11/10/2015,Sandra,Saga Falabella,Apple,Tuenti,24.00
+29/10/2015,Sandra,Plaza Vea,Samsung,Tuenti,49.00
+1/8/2014,Sandra,Ripley,Samsung,Movistar,13.00
+25/4/2015,Milenka,Saga Falabella,Nokia,Movistar,6.00
+12/1/2014,Joaquin,Metro,LG,Claro,56.00
+3/8/2016,Fabiola,Oeschle,Apple,Movistar,35.00
+6/10/2017,Sandra,Tottus,Samsung,Claro,5.00
+19/1/2018,Rodrigo,Oeschle,Samsung,Entel,149.00
+24/4/2014,Sandra,Tottus,LG,Entel,66.00
+31/10/2014,Milenka,Ripley,Apple,Tuenti,98.00
+7/7/2014,Fabiola,Metro,LG,Movistar,14.00
+9/2/2015,Fabiola,Ripley,LG,Tuenti,81.00
+19/4/2018,Milenka,Tottus,Samsung,Bitel,53.00
+9/5/2016,Rodrigo,Oeschle,Huawei,Entel,4.00
+7/2/2015,Sandra,Metro,LG,Bitel,74.00
+3/1/2018,Joaquin,Plaza Vea,Nokia,Entel,18.00
+12/3/2017,Joaquin,Metro,LG,Bitel,24.00
+2/6/2015,Alfonso,Plaza Vea,LG,Movistar,3.00
+27/3/2018,Sandra,Saga Falabella,Huawei,Tuenti,29.00
+9/1/2018,Sandra,Ripley,Nokia,Bitel,12.00
+23/8/2016,Fabiola,Plaza Vea,Samsung,Movistar,39.00
+7/6/2018,Milenka,Plaza Vea,LG,Movistar,25.00
+23/11/2016,Alfonso,Metro,LG,Movistar,8.00
+12/6/2017,Alfonso,Oeschle,Nokia,Movistar,11.00
+25/9/2018,Fabiola,Metro,LG,Movistar,23.00
+28/8/2015,Joaquin,Metro,LG,Entel,118.00
+2/8/2015,Alfonso,Ripley,Nokia,Movistar,3.00
+26/10/2015,Rodrigo,Ripley,Samsung,Entel,42.00
+6/9/2016,Milenka,Tottus,Motorola,Claro,56.00
+8/10/2016,Joaquin,Metro,Samsung,Entel,2.00
+29/9/2018,Milenka,Metro,Motorola,Movistar,18.00
+22/5/2017,Sandra,Metro,Huawei,Claro,28.00
+20/12/2015,Rodrigo,Metro,Nokia,Tuenti,33.00
+21/12/2014,Alfonso,Saga Falabella,LG,Tuenti,24.00
+26/10/2015,Sandra,Tottus,LG,Bitel,62.00
+6/9/2016,Milenka,Tottus,Huawei,Tuenti,33.00
+18/11/2018,Fabiola,Ripley,Nokia,Tuenti,31.00
+11/7/2015,Milenka,Tottus,Nokia,Bitel,83.00
+17/10/2018,Milenka,Oeschle,Nokia,Claro,94.00
+13/12/2014,Sandra,Ripley,Samsung,Movistar,17.00
+9/6/2014,Sandra,Ripley,Apple,Tuenti,86.00
+1/6/2015,Alfonso,Saga Falabella,Huawei,Movistar,1.00
+22/4/2014,Sandra,Metro,Samsung,Tuenti,36.00
+17/3/2017,Rodrigo,Oeschle,Huawei,Entel,125.00
+28/11/2014,Fabiola,Ripley,Nokia,Bitel,1.00
+14/5/2015,Alfonso,Ripley,Apple,Bitel,55.00
+27/8/2014,Rodrigo,Oeschle,Samsung,Entel,36.00
+23/11/2016,Milenka,Oeschle,Huawei,Bitel,11.00
+24/7/2014,Milenka,Oeschle,Samsung,Claro,38.00
+23/7/2015,Fabiola,Oeschle,Huawei,Tuenti,107.00
+23/4/2017,Milenka,Saga Falabella,Nokia,Bitel,17.00
+20/9/2014,Joaquin,Tottus,Apple,Bitel,161.00
+11/10/2015,Alfonso,Ripley,Huawei,Tuenti,92.00
+15/1/2016,Milenka,Saga Falabella,Motorola,Claro,16.00
+10/10/2017,Alfonso,Metro,LG,Movistar,6.00
+21/5/2015,Joaquin,Saga Falabella,Apple,Movistar,1.00
+23/10/2015,Milenka,Ripley,Motorola,Bitel,27.00
+18/2/2017,Sandra,Tottus,LG,Bitel,43.00
+2/10/2017,Sandra,Tottus,Apple,Entel,83.00
+31/3/2015,Joaquin,Ripley,Motorola,Bitel,31.00
+21/2/2017,Rodrigo,Oeschle,Nokia,Claro,83.00
+3/3/2015,Joaquin,Ripley,Samsung,Tuenti,5.00
+11/10/2018,Joaquin,Tottus,Nokia,Movistar,57.00
+2/2/2015,Alfonso,Oeschle,Apple,Entel,53.00
+14/2/2014,Rodrigo,Ripley,Nokia,Movistar,2.00
+27/3/2015,Alfonso,Metro,Samsung,Claro,48.00
+5/4/2014,Alfonso,Oeschle,Samsung,Bitel,92.00
+25/5/2017,Joaquin,Oeschle,LG,Bitel,115.00
+8/12/2014,Sandra,Metro,Motorola,Entel,116.00
+24/9/2015,Joaquin,Plaza Vea,Samsung,Movistar,7.00
+8/7/2014,Fabiola,Ripley,Samsung,Bitel,40.00
+10/8/2018,Joaquin,Plaza Vea,LG,Tuenti,118.00
+18/7/2015,Sandra,Tottus,Nokia,Bitel,14.00
+12/9/2017,Alfonso,Oeschle,Huawei,Claro,5.00
+25/4/2015,Milenka,Metro,Apple,Claro,56.00
+4/2/2016,Milenka,Saga Falabella,Huawei,Claro,3.00
+27/8/2018,Fabiola,Saga Falabella,Apple,Claro,16.00
+11/10/2017,Joaquin,Plaza Vea,Apple,Claro,70.00
+9/12/2015,Sandra,Ripley,Samsung,Movistar,7.00
+30/11/2016,Fabiola,Ripley,Motorola,Entel,9.00
+13/3/2017,Sandra,Tottus,Motorola,Claro,68.00
+24/6/2018,Joaquin,Saga Falabella,Apple,Movistar,9.00
+13/4/2016,Milenka,Saga Falabella,Motorola,Tuenti,5.00
+27/3/2016,Milenka,Saga Falabella,Huawei,Tuenti,17.00
+31/7/2014,Fabiola,Saga Falabella,Samsung,Tuenti,45.00
+17/9/2017,Fabiola,Oeschle,LG,Entel,133.00
+17/8/2014,Fabiola,Tottus,Samsung,Entel,125.00
+29/6/2015,Sandra,Ripley,Huawei,Bitel,1.00
+30/8/2016,Alfonso,Plaza Vea,Samsung,Claro,64.00
+25/1/2015,Joaquin,Oeschle,Samsung,Entel,44.00
+27/8/2015,Milenka,Saga Falabella,Motorola,Claro,8.00
+27/4/2014,Milenka,Oeschle,Motorola,Tuenti,17.00
+8/2/2014,Sandra,Plaza Vea,Nokia,Movistar,21.00
+7/2/2014,Joaquin,Ripley,Nokia,Entel,48.00
+15/9/2014,Alfonso,Ripley,LG,Claro,38.00
+17/7/2014,Joaquin,Oeschle,Huawei,Claro,98.00
+24/2/2018,Rodrigo,Oeschle,Apple,Bitel,8.00
+16/5/2014,Joaquin,Tottus,Samsung,Entel,26.00
+15/6/2015,Sandra,Oeschle,LG,Bitel,20.00
+2/2/2015,Milenka,Tottus,LG,Bitel,135.00
+19/3/2014,Milenka,Tottus,Apple,Movistar,37.00
+3/12/2018,Joaquin,Saga Falabella,Nokia,Entel,1.00
+23/9/2016,Milenka,Metro,Motorola,Entel,86.00
+31/3/2015,Milenka,Ripley,LG,Bitel,19.00
+18/4/2018,Milenka,Ripley,Nokia,Entel,22.00
+31/1/2017,Alfonso,Saga Falabella,Samsung,Bitel,11.00
+20/1/2015,Fabiola,Oeschle,LG,Bitel,82.00
+18/1/2017,Joaquin,Tottus,Samsung,Tuenti,62.00
+21/2/2016,Joaquin,Tottus,Huawei,Entel,34.00
+31/5/2016,Sandra,Saga Falabella,Apple,Tuenti,34.00
+3/8/2016,Sandra,Metro,Nokia,Entel,70.00
+26/5/2015,Fabiola,Ripley,Samsung,Movistar,11.00
+3/3/2018,Sandra,Saga Falabella,Motorola,Tuenti,12.00
+13/5/2016,Joaquin,Saga Falabella,Motorola,Claro,15.00
+16/2/2018,Fabiola,Ripley,Apple,Bitel,44.00
+30/3/2018,Rodrigo,Plaza Vea,Samsung,Movistar,38.00
+27/9/2018,Sandra,Tottus,LG,Entel,66.00
+25/6/2014,Joaquin,Tottus,Huawei,Movistar,28.00
+23/8/2017,Sandra,Saga Falabella,Samsung,Entel,17.00
+14/12/2015,Milenka,Metro,LG,Tuenti,149.00
+11/2/2015,Rodrigo,Metro,Huawei,Tuenti,123.00
+20/11/2014,Milenka,Metro,Samsung,Bitel,46.00
+28/11/2018,Alfonso,Oeschle,Samsung,Bitel,44.00
+6/8/2016,Joaquin,Oeschle,LG,Tuenti,211.00
+17/10/2017,Fabiola,Saga Falabella,LG,Tuenti,31.00
+17/1/2016,Milenka,Tottus,Apple,Entel,77.00
+1/6/2014,Rodrigo,Ripley,Apple,Claro,13.00
+18/12/2016,Alfonso,Saga Falabella,Motorola,Entel,20.00
+11/10/2016,Alfonso,Metro,Samsung,Movistar,6.00
+1/7/2017,Rodrigo,Metro,Apple,Movistar,19.00
+1/7/2016,Joaquin,Saga Falabella,Nokia,Claro,19.00
+3/2/2018,Milenka,Tottus,Samsung,Bitel,97.00
+5/1/2018,Sandra,Oeschle,Huawei,Bitel,97.00
+18/3/2014,Sandra,Ripley,Apple,Tuenti,64.00
+4/4/2015,Rodrigo,Metro,Apple,Movistar,12.00
+15/4/2015,Alfonso,Tottus,LG,Bitel,115.00
+24/5/2014,Rodrigo,Metro,Apple,Tuenti,89.00
+22/11/2016,Sandra,Ripley,Nokia,Movistar,3.00
+27/12/2014,Joaquin,Metro,LG,Claro,36.00
+1/7/2018,Alfonso,Plaza Vea,LG,Movistar,36.00
+2/5/2015,Milenka,Tottus,Apple,Entel,128.00
+18/1/2015,Alfonso,Saga Falabella,Samsung,Claro,13.00
+28/11/2018,Joaquin,Saga Falabella,Nokia,Movistar,5.00
+30/7/2017,Rodrigo,Ripley,Motorola,Tuenti,38.00
+23/9/2015,Fabiola,Ripley,Nokia,Tuenti,46.00
+24/11/2017,Fabiola,Tottus,LG,Claro,76.00
+9/1/2018,Rodrigo,Plaza Vea,LG,Bitel,11.00
+9/9/2016,Sandra,Saga Falabella,Samsung,Movistar,6.00
+14/12/2015,Milenka,Metro,LG,Movistar,28.00
+14/6/2015,Milenka,Tottus,Apple,Entel,172.00
+8/3/2018,Rodrigo,Saga Falabella,LG,Bitel,20.00
+14/10/2014,Sandra,Ripley,LG,Entel,4.00
+18/11/2017,Fabiola,Plaza Vea,Apple,Entel,141.00
+16/5/2016,Alfonso,Saga Falabella,Motorola,Claro,6.00
+19/3/2018,Milenka,Ripley,Samsung,Tuenti,46.00
+31/10/2016,Joaquin,Oeschle,Apple,Tuenti,50.00
+24/4/2014,Alfonso,Metro,Apple,Tuenti,91.00
+2/9/2014,Alfonso,Tottus,Apple,Movistar,3.00
+18/4/2018,Fabiola,Plaza Vea,LG,Movistar,14.00
+16/4/2014,Fabiola,Ripley,LG,Bitel,31.00
+18/4/2018,Sandra,Saga Falabella,Huawei,Entel,10.00
+25/12/2018,Rodrigo,Saga Falabella,Samsung,Movistar,3.00
+13/5/2014,Joaquin,Ripley,Apple,Bitel,22.00
+17/2/2016,Fabiola,Saga Falabella,Samsung,Bitel,4.00
+10/6/2018,Alfonso,Tottus,Motorola,Entel,27.00
+17/12/2018,Sandra,Saga Falabella,Samsung,Claro,1.00
+21/4/2015,Fabiola,Oeschle,Huawei,Movistar,15.00
+27/9/2018,Milenka,Tottus,Nokia,Claro,5.00
+10/5/2017,Milenka,Ripley,Motorola,Movistar,9.00
+18/6/2016,Joaquin,Tottus,Huawei,Tuenti,44.00
+18/7/2015,Alfonso,Saga Falabella,Nokia,Entel,1.00
+19/4/2016,Alfonso,Metro,LG,Tuenti,23.00
+2/12/2015,Rodrigo,Tottus,Nokia,Claro,39.00
+9/9/2017,Alfonso,Saga Falabella,Samsung,Entel,29.00
+9/9/2014,Milenka,Ripley,Nokia,Tuenti,90.00
+1/1/2015,Fabiola,Metro,Nokia,Bitel,70.00
+2/7/2018,Milenka,Saga Falabella,LG,Claro,2.00
+17/2/2015,Milenka,Plaza Vea,Nokia,Entel,68.00
+27/8/2015,Alfonso,Oeschle,Nokia,Tuenti,149.00
+19/4/2018,Rodrigo,Oeschle,Samsung,Tuenti,69.00
+26/6/2015,Rodrigo,Saga Falabella,Apple,Entel,27.00
+21/7/2015,Sandra,Tottus,Apple,Claro,3.00
+5/5/2015,Joaquin,Tottus,Apple,Entel,173.00
+9/3/2018,Rodrigo,Tottus,LG,Bitel,169.00
+2/8/2015,Joaquin,Tottus,Huawei,Claro,52.00
+28/2/2017,Fabiola,Ripley,LG,Movistar,19.00
+8/5/2016,Sandra,Metro,Nokia,Tuenti,43.00
+27/9/2014,Fabiola,Ripley,Apple,Tuenti,47.00
+8/7/2016,Milenka,Metro,Samsung,Bitel,65.00
+6/10/2014,Alfonso,Ripley,Nokia,Tuenti,3.00
+11/6/2018,Alfonso,Tottus,Samsung,Movistar,59.00
+10/8/2014,Sandra,Plaza Vea,LG,Bitel,70.00
+22/12/2016,Sandra,Tottus,Huawei,Movistar,20.00
+6/1/2017,Rodrigo,Saga Falabella,Motorola,Movistar,6.00
+27/7/2015,Milenka,Tottus,LG,Tuenti,31.00
+22/7/2017,Alfonso,Ripley,Huawei,Tuenti,11.00
+8/2/2017,Milenka,Metro,Motorola,Entel,108.00
+14/6/2018,Fabiola,Plaza Vea,Samsung,Bitel,54.00
+30/3/2014,Milenka,Saga Falabella,LG,Movistar,4.00
+25/1/2017,Milenka,Oeschle,Apple,Claro,75.00
+30/12/2015,Sandra,Saga Falabella,Huawei,Entel,10.00
+28/7/2018,Rodrigo,Saga Falabella,Samsung,Movistar,1.00
+7/6/2018,Alfonso,Saga Falabella,Samsung,Movistar,7.00
+10/5/2017,Rodrigo,Tottus,LG,Bitel,161.00
+18/10/2015,Milenka,Oeschle,Motorola,Tuenti,36.00
+12/10/2017,Joaquin,Tottus,Huawei,Entel,17.00
+27/9/2017,Rodrigo,Plaza Vea,Apple,Entel,114.00
+7/12/2015,Sandra,Tottus,LG,Tuenti,68.00
+26/5/2018,Fabiola,Oeschle,LG,Movistar,1.00
+19/4/2015,Rodrigo,Tottus,LG,Claro,16.00
+26/1/2018,Alfonso,Saga Falabella,Samsung,Bitel,25.00
+4/4/2014,Fabiola,Plaza Vea,Motorola,Movistar,8.00
+29/7/2014,Rodrigo,Tottus,Nokia,Entel,57.00
+5/8/2018,Milenka,Oeschle,Motorola,Tuenti,131.00
+25/12/2018,Milenka,Ripley,Motorola,Bitel,27.00
+17/8/2017,Alfonso,Saga Falabella,Samsung,Bitel,22.00
+13/2/2018,Sandra,Saga Falabella,Apple,Entel,28.00
+4/3/2016,Rodrigo,Plaza Vea,Huawei,Tuenti,67.00
+17/4/2015,Alfonso,Oeschle,Samsung,Movistar,16.00
+7/3/2017,Rodrigo,Oeschle,Samsung,Entel,193.00
+2/8/2014,Sandra,Ripley,Huawei,Tuenti,98.00
+17/11/2016,Fabiola,Metro,Nokia,Claro,49.00
+15/7/2018,Sandra,Oeschle,Motorola,Claro,60.00
+8/11/2017,Alfonso,Tottus,Samsung,Bitel,31.00
+18/1/2017,Fabiola,Tottus,Apple,Claro,74.00
+17/12/2014,Joaquin,Metro,Samsung,Claro,28.00
+28/1/2018,Fabiola,Ripley,Samsung,Movistar,14.00
+25/4/2016,Sandra,Saga Falabella,LG,Bitel,7.00
+5/10/2018,Fabiola,Metro,Motorola,Bitel,60.00
+20/1/2018,Rodrigo,Plaza Vea,Nokia,Claro,51.00
+19/11/2014,Fabiola,Saga Falabella,Samsung,Claro,18.00
+10/5/2015,Milenka,Saga Falabella,Huawei,Movistar,1.00
+7/8/2017,Joaquin,Metro,Motorola,Tuenti,147.00
+25/8/2014,Rodrigo,Oeschle,LG,Bitel,126.00
+1/2/2017,Alfonso,Plaza Vea,Nokia,Bitel,107.00
+26/2/2017,Milenka,Saga Falabella,Nokia,Tuenti,36.00
+3/3/2017,Milenka,Metro,LG,Claro,18.00
+1/1/2016,Joaquin,Oeschle,LG,Claro,1.00
+11/9/2016,Rodrigo,Plaza Vea,Samsung,Movistar,26.00
+18/4/2016,Milenka,Oeschle,Apple,Movistar,47.00
+9/5/2017,Joaquin,Tottus,Samsung,Movistar,22.00
+6/2/2018,Fabiola,Oeschle,LG,Tuenti,175.00
+7/8/2014,Sandra,Metro,LG,Tuenti,81.00
+30/5/2018,Alfonso,Saga Falabella,LG,Tuenti,6.00
+10/3/2016,Sandra,Saga Falabella,Motorola,Movistar,2.00
+28/10/2016,Sandra,Tottus,Apple,Tuenti,64.00
+4/9/2017,Joaquin,Tottus,Samsung,Movistar,51.00
+1/10/2016,Alfonso,Ripley,LG,Tuenti,10.00
+9/1/2018,Fabiola,Oeschle,Motorola,Claro,96.00
+4/3/2016,Rodrigo,Oeschle,Samsung,Movistar,49.00
+8/7/2015,Alfonso,Tottus,LG,Tuenti,214.00
+28/2/2014,Joaquin,Tottus,Motorola,Movistar,22.00
+19/4/2017,Joaquin,Metro,Samsung,Entel,75.00
+8/9/2014,Milenka,Ripley,LG,Tuenti,18.00
+3/5/2015,Fabiola,Saga Falabella,Motorola,Claro,16.00
+13/11/2015,Rodrigo,Saga Falabella,Motorola,Claro,6.00
+9/2/2016,Rodrigo,Oeschle,Samsung,Movistar,16.00
+15/4/2018,Alfonso,Metro,Motorola,Bitel,46.00
+12/11/2016,Sandra,Saga Falabella,Huawei,Entel,37.00
+16/1/2018,Alfonso,Plaza Vea,Apple,Movistar,13.00
+18/10/2014,Fabiola,Tottus,LG,Tuenti,267.00
+26/10/2017,Rodrigo,Metro,Motorola,Tuenti,93.00
+15/8/2016,Alfonso,Tottus,Huawei,Entel,88.00
+14/11/2018,Milenka,Ripley,Apple,Bitel,22.00
+7/6/2014,Alfonso,Plaza Vea,LG,Bitel,54.00
+21/3/2017,Joaquin,Ripley,LG,Bitel,56.00
+1/8/2018,Rodrigo,Tottus,Motorola,Claro,78.00
+1/5/2015,Milenka,Metro,Nokia,Tuenti,54.00
+9/9/2018,Sandra,Oeschle,Huawei,Entel,74.00
+7/8/2018,Fabiola,Metro,Nokia,Entel,8.00
+28/3/2017,Alfonso,Saga Falabella,Huawei,Entel,11.00
+21/8/2017,Milenka,Metro,LG,Bitel,89.00
+26/7/2014,Milenka,Oeschle,Motorola,Claro,83.00
+29/3/2014,Alfonso,Tottus,Motorola,Bitel,24.00
+18/12/2016,Fabiola,Ripley,Samsung,Bitel,26.00
+4/4/2014,Joaquin,Ripley,Nokia,Bitel,6.00
+7/8/2015,Rodrigo,Metro,LG,Claro,24.00
+19/6/2014,Joaquin,Metro,Apple,Tuenti,135.00
+26/6/2016,Fabiola,Saga Falabella,Motorola,Movistar,9.00
+27/2/2017,Rodrigo,Saga Falabella,Huawei,Movistar,8.00
+9/6/2014,Rodrigo,Oeschle,Apple,Movistar,40.00
+14/8/2014,Joaquin,Plaza Vea,LG,Claro,58.00
+23/12/2015,Milenka,Ripley,Apple,Bitel,14.00
+11/1/2014,Alfonso,Oeschle,Apple,Entel,178.00
+12/8/2018,Joaquin,Metro,Motorola,Claro,46.00
+21/2/2016,Alfonso,Saga Falabella,Apple,Tuenti,39.00
+23/9/2018,Milenka,Oeschle,Samsung,Entel,194.00
+28/9/2016,Sandra,Metro,Samsung,Tuenti,76.00
+10/7/2015,Milenka,Saga Falabella,Samsung,Bitel,5.00
+25/9/2015,Fabiola,Plaza Vea,Huawei,Tuenti,32.00
+16/8/2014,Fabiola,Tottus,Huawei,Claro,116.00
+7/5/2015,Fabiola,Tottus,Samsung,Bitel,125.00
+31/12/2016,Joaquin,Oeschle,LG,Entel,86.00
+7/1/2014,Fabiola,Metro,Nokia,Entel,111.00
+27/2/2015,Alfonso,Tottus,Samsung,Bitel,65.00
+18/3/2017,Joaquin,Ripley,LG,Bitel,51.00
+12/4/2015,Alfonso,Plaza Vea,Samsung,Movistar,31.00
+14/7/2014,Rodrigo,Tottus,LG,Movistar,45.00
+25/8/2015,Sandra,Oeschle,Nokia,Bitel,113.00
+23/9/2016,Milenka,Oeschle,Samsung,Claro,37.00
+18/12/2014,Milenka,Oeschle,Huawei,Movistar,29.00
+3/2/2018,Milenka,Oeschle,Huawei,Tuenti,211.00
+2/12/2015,Fabiola,Plaza Vea,Motorola,Claro,10.00
+1/10/2018,Sandra,Plaza Vea,LG,Claro,45.00
+18/11/2015,Fabiola,Ripley,Samsung,Claro,7.00
+19/8/2017,Milenka,Tottus,Samsung,Bitel,136.00
+17/11/2018,Joaquin,Metro,LG,Tuenti,15.00
+2/9/2018,Fabiola,Plaza Vea,Nokia,Tuenti,74.00
+6/2/2017,Rodrigo,Plaza Vea,Huawei,Movistar,25.00
+29/1/2014,Milenka,Saga Falabella,Samsung,Entel,11.00
+25/9/2016,Sandra,Plaza Vea,LG,Claro,79.00
+31/1/2016,Sandra,Plaza Vea,Apple,Tuenti,69.00
+24/3/2017,Joaquin,Saga Falabella,Apple,Entel,14.00
+8/7/2014,Alfonso,Ripley,LG,Claro,29.00
+19/3/2016,Sandra,Tottus,Motorola,Bitel,172.00
+3/4/2014,Rodrigo,Plaza Vea,LG,Entel,60.00
+16/6/2016,Fabiola,Oeschle,LG,Bitel,46.00
+13/9/2017,Alfonso,Plaza Vea,LG,Claro,27.00
+15/3/2018,Alfonso,Saga Falabella,Apple,Bitel,14.00
+26/7/2014,Fabiola,Oeschle,LG,Bitel,75.00
+8/5/2017,Milenka,Ripley,LG,Claro,39.00
+13/9/2015,Sandra,Saga Falabella,Samsung,Claro,12.00
+8/9/2015,Milenka,Ripley,LG,Tuenti,90.00
+2/3/2018,Milenka,Saga Falabella,Samsung,Claro,9.00
+24/9/2015,Rodrigo,Ripley,Nokia,Bitel,14.00
+3/6/2015,Alfonso,Saga Falabella,Nokia,Claro,18.00
+11/5/2015,Fabiola,Tottus,Samsung,Entel,202.00
+13/3/2018,Joaquin,Plaza Vea,Nokia,Bitel,36.00
+8/5/2018,Joaquin,Ripley,LG,Bitel,51.00
+22/9/2014,Fabiola,Metro,LG,Bitel,3.00
+22/10/2018,Joaquin,Oeschle,Apple,Claro,42.00
+10/7/2014,Alfonso,Plaza Vea,LG,Claro,30.00
+26/6/2014,Sandra,Ripley,Nokia,Entel,53.00
+22/8/2016,Sandra,Saga Falabella,Apple,Bitel,20.00
+14/5/2017,Fabiola,Plaza Vea,LG,Entel,25.00
+14/5/2014,Fabiola,Oeschle,Nokia,Movistar,27.00
+18/6/2015,Fabiola,Oeschle,LG,Entel,175.00
+9/1/2018,Joaquin,Oeschle,Huawei,Entel,65.00
+21/5/2016,Alfonso,Oeschle,Motorola,Bitel,123.00
+2/6/2014,Sandra,Plaza Vea,LG,Bitel,97.00
+5/2/2016,Milenka,Saga Falabella,Motorola,Entel,37.00
+1/3/2014,Milenka,Plaza Vea,Motorola,Bitel,9.00
+1/10/2015,Joaquin,Plaza Vea,Samsung,Tuenti,105.00
+13/1/2015,Joaquin,Metro,LG,Movistar,29.00
+7/12/2017,Joaquin,Metro,LG,Claro,30.00
+23/4/2017,Milenka,Tottus,Nokia,Claro,66.00
+18/11/2015,Alfonso,Metro,LG,Bitel,41.00
+7/1/2018,Fabiola,Plaza Vea,Motorola,Entel,112.00
+4/12/2016,Alfonso,Metro,Apple,Claro,17.00
+29/6/2017,Fabiola,Oeschle,LG,Entel,100.00
+3/3/2016,Sandra,Oeschle,LG,Tuenti,6.00
+8/8/2017,Rodrigo,Oeschle,Samsung,Movistar,13.00
+22/12/2015,Fabiola,Oeschle,LG,Claro,18.00
+1/11/2016,Milenka,Tottus,Apple,Claro,107.00
+7/5/2018,Sandra,Saga Falabella,Huawei,Movistar,6.00
+17/2/2015,Milenka,Saga Falabella,Samsung,Movistar,9.00
+21/12/2015,Sandra,Metro,LG,Tuenti,98.00
+4/11/2016,Milenka,Metro,Motorola,Tuenti,122.00
+13/9/2014,Alfonso,Tottus,LG,Entel,197.00
+9/2/2014,Joaquin,Oeschle,Motorola,Bitel,149.00
+22/11/2015,Rodrigo,Oeschle,Samsung,Movistar,24.00
+15/4/2016,Milenka,Saga Falabella,Apple,Bitel,14.00
+9/8/2016,Milenka,Metro,Samsung,Claro,45.00
+17/7/2017,Milenka,Metro,Samsung,Entel,115.00
+6/2/2016,Sandra,Oeschle,Nokia,Tuenti,226.00
+27/5/2017,Fabiola,Saga Falabella,Samsung,Movistar,2.00
+23/9/2014,Alfonso,Ripley,Apple,Bitel,44.00
+28/8/2016,Alfonso,Ripley,Motorola,Movistar,6.00
+7/3/2015,Milenka,Oeschle,Motorola,Claro,84.00
+17/9/2018,Joaquin,Oeschle,LG,Entel,124.00
+25/2/2018,Joaquin,Oeschle,Samsung,Tuenti,144.00
+4/8/2015,Alfonso,Metro,LG,Claro,4.00
+19/12/2015,Sandra,Ripley,Nokia,Claro,16.00
+30/5/2014,Fabiola,Tottus,LG,Entel,56.00
+20/8/2018,Milenka,Saga Falabella,Huawei,Entel,19.00
+3/3/2014,Rodrigo,Plaza Vea,Nokia,Claro,40.00
+18/7/2014,Fabiola,Metro,Apple,Entel,109.00
+12/11/2015,Alfonso,Saga Falabella,Nokia,Entel,7.00
+7/6/2015,Rodrigo,Tottus,Huawei,Entel,130.00
+2/10/2015,Rodrigo,Plaza Vea,Nokia,Claro,76.00
+31/7/2017,Milenka,Tottus,Samsung,Tuenti,52.00
+10/2/2018,Sandra,Metro,Motorola,Bitel,9.00
+14/10/2016,Sandra,Plaza Vea,Huawei,Bitel,33.00
+28/3/2016,Alfonso,Tottus,Motorola,Claro,84.00
+5/6/2014,Sandra,Oeschle,LG,Claro,69.00
+4/9/2016,Joaquin,Metro,Samsung,Claro,38.00
+11/4/2016,Milenka,Ripley,Nokia,Claro,21.00
+11/9/2014,Sandra,Ripley,Nokia,Entel,42.00
+19/4/2014,Sandra,Metro,Samsung,Movistar,15.00
+16/3/2018,Joaquin,Oeschle,LG,Claro,18.00
+12/4/2018,Joaquin,Ripley,Samsung,Tuenti,23.00
+8/5/2017,Fabiola,Plaza Vea,Samsung,Entel,86.00
+16/9/2015,Rodrigo,Plaza Vea,Apple,Movistar,20.00
+2/12/2016,Milenka,Tottus,Huawei,Bitel,8.00
+12/3/2015,Fabiola,Plaza Vea,LG,Tuenti,91.00
+22/10/2017,Sandra,Ripley,Apple,Tuenti,89.00
+5/6/2015,Joaquin,Saga Falabella,Nokia,Bitel,29.00
+19/9/2018,Rodrigo,Oeschle,Nokia,Bitel,132.00
+31/10/2014,Joaquin,Plaza Vea,Nokia,Claro,4.00
+10/11/2018,Sandra,Tottus,Nokia,Entel,46.00
+14/11/2015,Fabiola,Metro,Nokia,Entel,85.00
+30/12/2014,Joaquin,Tottus,LG,Claro,97.00
+5/5/2015,Sandra,Oeschle,Nokia,Entel,138.00
+9/12/2018,Fabiola,Plaza Vea,Apple,Entel,139.00
+17/8/2014,Alfonso,Saga Falabella,Samsung,Movistar,5.00
+26/7/2017,Rodrigo,Plaza Vea,LG,Movistar,16.00
+18/10/2014,Sandra,Tottus,Motorola,Bitel,173.00
+19/6/2015,Sandra,Ripley,Apple,Claro,31.00
+28/6/2015,Milenka,Oeschle,Huawei,Movistar,44.00
+12/5/2016,Milenka,Tottus,LG,Movistar,4.00
+21/1/2014,Fabiola,Oeschle,Nokia,Entel,188.00
+2/1/2017,Alfonso,Plaza Vea,LG,Tuenti,51.00
+30/1/2015,Milenka,Saga Falabella,Huawei,Movistar,1.00
+15/1/2018,Fabiola,Oeschle,LG,Tuenti,219.00
+22/10/2018,Sandra,Ripley,Nokia,Claro,34.00
+10/1/2015,Rodrigo,Plaza Vea,Samsung,Claro,43.00
+26/11/2017,Fabiola,Plaza Vea,LG,Entel,70.00
+4/6/2014,Fabiola,Oeschle,Apple,Movistar,41.00
+24/9/2017,Joaquin,Ripley,LG,Movistar,7.00
+23/1/2018,Joaquin,Ripley,Apple,Claro,5.00
+5/3/2017,Rodrigo,Plaza Vea,LG,Tuenti,60.00
+18/11/2018,Rodrigo,Metro,Apple,Tuenti,98.00
+10/2/2015,Joaquin,Metro,Samsung,Movistar,3.00
+26/4/2016,Joaquin,Oeschle,LG,Tuenti,140.00
+26/5/2015,Fabiola,Metro,Motorola,Claro,57.00
+22/1/2016,Milenka,Saga Falabella,Samsung,Tuenti,42.00
+5/1/2015,Milenka,Plaza Vea,LG,Claro,49.00
+4/10/2018,Joaquin,Plaza Vea,Apple,Movistar,39.00
+2/7/2014,Sandra,Ripley,LG,Movistar,6.00
+14/8/2018,Joaquin,Saga Falabella,Huawei,Movistar,2.00
+15/12/2018,Milenka,Ripley,Samsung,Claro,27.00
+22/8/2015,Alfonso,Oeschle,Apple,Claro,48.00
+26/12/2017,Sandra,Tottus,Motorola,Claro,88.00
+16/10/2016,Alfonso,Plaza Vea,Samsung,Movistar,6.00
+27/5/2017,Joaquin,Saga Falabella,Motorola,Movistar,6.00
+20/10/2014,Alfonso,Plaza Vea,Apple,Bitel,73.00
+26/5/2014,Alfonso,Ripley,Motorola,Movistar,2.00
+14/3/2018,Sandra,Tottus,LG,Entel,9.00
+8/8/2018,Alfonso,Tottus,LG,Movistar,17.00
+19/12/2014,Milenka,Oeschle,Samsung,Claro,14.00
+1/4/2014,Rodrigo,Saga Falabella,Apple,Movistar,5.00
+17/12/2017,Joaquin,Ripley,Samsung,Claro,34.00
+13/5/2017,Rodrigo,Ripley,LG,Tuenti,51.00
+13/3/2017,Joaquin,Saga Falabella,Samsung,Claro,15.00
+8/8/2015,Sandra,Oeschle,LG,Claro,17.00
+24/6/2016,Fabiola,Saga Falabella,Motorola,Bitel,16.00
+7/12/2015,Joaquin,Oeschle,Samsung,Entel,18.00
+5/4/2015,Joaquin,Plaza Vea,Huawei,Bitel,55.00
+3/6/2016,Fabiola,Plaza Vea,Huawei,Movistar,3.00
+20/4/2014,Fabiola,Oeschle,LG,Claro,64.00
+13/5/2015,Rodrigo,Plaza Vea,Nokia,Bitel,95.00
+15/4/2017,Alfonso,Metro,Nokia,Tuenti,146.00
+27/3/2017,Alfonso,Ripley,Motorola,Tuenti,86.00
+30/3/2014,Milenka,Tottus,Motorola,Tuenti,46.00
+5/9/2016,Sandra,Oeschle,LG,Tuenti,171.00
+29/6/2015,Alfonso,Saga Falabella,LG,Claro,4.00
+7/1/2015,Sandra,Tottus,Apple,Bitel,36.00
+26/11/2018,Joaquin,Tottus,Nokia,Tuenti,286.00
+20/3/2018,Alfonso,Metro,Huawei,Tuenti,33.00
+25/2/2015,Alfonso,Plaza Vea,Samsung,Claro,65.00
+6/9/2018,Fabiola,Tottus,Nokia,Movistar,47.00
+29/12/2014,Rodrigo,Metro,Samsung,Bitel,21.00
+23/4/2018,Sandra,Plaza Vea,Motorola,Tuenti,40.00
+19/9/2016,Milenka,Ripley,Samsung,Claro,36.00
+30/1/2017,Alfonso,Saga Falabella,Apple,Movistar,4.00
+4/2/2018,Sandra,Tottus,Huawei,Tuenti,273.00
+18/12/2015,Fabiola,Saga Falabella,Samsung,Tuenti,1.00
+23/6/2014,Rodrigo,Saga Falabella,Apple,Claro,18.00
+27/7/2016,Joaquin,Ripley,Samsung,Tuenti,30.00
+14/10/2015,Sandra,Tottus,Samsung,Entel,92.00
+22/7/2016,Alfonso,Saga Falabella,Samsung,Movistar,1.00
+29/6/2014,Fabiola,Metro,Samsung,Entel,11.00
+16/4/2016,Milenka,Oeschle,Apple,Entel,104.00
+26/8/2015,Sandra,Saga Falabella,Nokia,Claro,18.00
+16/4/2016,Sandra,Oeschle,Samsung,Entel,17.00
+4/2/2016,Rodrigo,Oeschle,LG,Entel,13.00
+14/2/2017,Rodrigo,Saga Falabella,LG,Bitel,27.00
+2/7/2017,Rodrigo,Oeschle,Apple,Movistar,36.00
+20/8/2018,Alfonso,Tottus,Huawei,Claro,118.00
+16/7/2015,Joaquin,Plaza Vea,Nokia,Claro,50.00
+22/8/2017,Fabiola,Tottus,LG,Bitel,19.00
+16/9/2016,Alfonso,Plaza Vea,Motorola,Entel,121.00
+10/4/2017,Rodrigo,Ripley,LG,Movistar,6.00
+5/4/2015,Fabiola,Tottus,Samsung,Tuenti,241.00
+27/12/2017,Sandra,Oeschle,LG,Movistar,33.00
+12/12/2014,Sandra,Oeschle,Samsung,Tuenti,58.00
+13/12/2016,Milenka,Oeschle,Samsung,Claro,50.00
+29/9/2018,Milenka,Plaza Vea,Nokia,Tuenti,68.00
+16/7/2018,Fabiola,Oeschle,Samsung,Entel,137.00
+20/10/2015,Joaquin,Saga Falabella,Samsung,Claro,16.00
+21/5/2017,Fabiola,Oeschle,Samsung,Entel,32.00
+23/7/2014,Fabiola,Plaza Vea,Motorola,Bitel,44.00
+2/7/2018,Rodrigo,Ripley,Samsung,Claro,15.00
+24/8/2015,Rodrigo,Saga Falabella,LG,Movistar,1.00
+21/9/2015,Fabiola,Tottus,LG,Tuenti,99.00
+28/1/2014,Alfonso,Ripley,Samsung,Movistar,8.00
+14/12/2017,Sandra,Plaza Vea,Huawei,Tuenti,116.00
+8/9/2016,Milenka,Saga Falabella,LG,Bitel,12.00
+26/7/2017,Sandra,Saga Falabella,Motorola,Claro,18.00
+16/12/2016,Milenka,Metro,Motorola,Bitel,19.00
+2/1/2017,Rodrigo,Metro,Nokia,Bitel,22.00
+31/3/2016,Rodrigo,Oeschle,Motorola,Movistar,48.00
+27/10/2015,Sandra,Plaza Vea,Samsung,Claro,76.00
+22/9/2014,Alfonso,Ripley,Samsung,Movistar,3.00
+17/5/2016,Milenka,Saga Falabella,Apple,Bitel,3.00
+29/7/2018,Joaquin,Tottus,LG,Bitel,15.00
+8/10/2016,Fabiola,Ripley,Samsung,Claro,25.00
+5/1/2016,Rodrigo,Tottus,Huawei,Tuenti,103.00
+14/11/2014,Milenka,Plaza Vea,LG,Movistar,23.00
+18/5/2016,Joaquin,Metro,Apple,Bitel,56.00
+30/6/2014,Sandra,Tottus,Apple,Entel,61.00
+10/10/2017,Sandra,Oeschle,Apple,Tuenti,187.00
+16/12/2016,Sandra,Tottus,Motorola,Bitel,59.00
+7/2/2017,Joaquin,Plaza Vea,Nokia,Entel,76.00
+4/2/2014,Fabiola,Metro,LG,Entel,116.00
+16/7/2018,Alfonso,Metro,LG,Tuenti,2.00
+1/11/2017,Sandra,Plaza Vea,Motorola,Movistar,18.00
+20/5/2016,Rodrigo,Ripley,Motorola,Movistar,7.00
+6/9/2015,Alfonso,Oeschle,Samsung,Tuenti,107.00
+12/10/2017,Joaquin,Tottus,Huawei,Movistar,59.00
+31/12/2018,Fabiola,Oeschle,LG,Tuenti,63.00
+18/10/2015,Joaquin,Oeschle,Samsung,Entel,39.00
+16/3/2016,Rodrigo,Plaza Vea,Samsung,Bitel,52.00
+29/9/2016,Joaquin,Tottus,Motorola,Tuenti,125.00
+26/2/2015,Fabiola,Tottus,Huawei,Entel,199.00
+22/4/2018,Fabiola,Saga Falabella,Huawei,Claro,8.00
+3/9/2014,Milenka,Plaza Vea,LG,Entel,150.00
+15/11/2016,Joaquin,Tottus,Samsung,Tuenti,139.00
+22/6/2017,Fabiola,Ripley,LG,Movistar,18.00
+14/1/2014,Rodrigo,Saga Falabella,Nokia,Entel,39.00
+30/7/2016,Joaquin,Saga Falabella,Motorola,Tuenti,2.00
+22/1/2018,Joaquin,Ripley,Apple,Bitel,7.00
+13/2/2015,Fabiola,Plaza Vea,Apple,Bitel,50.00
+23/9/2014,Milenka,Ripley,Huawei,Movistar,19.00
+24/8/2018,Alfonso,Saga Falabella,Samsung,Bitel,14.00
+19/8/2015,Fabiola,Oeschle,Motorola,Bitel,121.00
+3/9/2018,Fabiola,Plaza Vea,Apple,Bitel,27.00
+31/3/2018,Milenka,Tottus,Huawei,Bitel,47.00
+4/10/2015,Joaquin,Tottus,LG,Tuenti,44.00
+9/2/2014,Joaquin,Saga Falabella,Nokia,Claro,14.00
+29/7/2015,Rodrigo,Metro,LG,Bitel,50.00
+28/10/2015,Alfonso,Ripley,Samsung,Movistar,13.00
+11/12/2016,Alfonso,Ripley,Huawei,Entel,15.00
+1/1/2015,Sandra,Oeschle,Apple,Tuenti,105.00
+9/8/2018,Fabiola,Oeschle,Apple,Entel,14.00
+21/4/2014,Rodrigo,Plaza Vea,Samsung,Movistar,25.00
+17/3/2017,Sandra,Ripley,Apple,Claro,28.00
+3/2/2017,Milenka,Plaza Vea,Samsung,Movistar,32.00
+29/12/2018,Sandra,Tottus,LG,Claro,29.00
+3/1/2014,Sandra,Ripley,Samsung,Movistar,3.00
+20/9/2018,Milenka,Ripley,LG,Movistar,8.00
+16/12/2015,Joaquin,Oeschle,Samsung,Tuenti,25.00
+31/8/2018,Sandra,Ripley,LG,Entel,9.00
+2/7/2015,Rodrigo,Tottus,Nokia,Tuenti,274.00
+14/10/2016,Sandra,Saga Falabella,Samsung,Claro,1.00
+1/2/2018,Rodrigo,Plaza Vea,Nokia,Entel,157.00
+29/4/2014,Rodrigo,Saga Falabella,Nokia,Movistar,7.00
+30/8/2018,Fabiola,Metro,Apple,Tuenti,18.00
+2/12/2015,Alfonso,Tottus,LG,Entel,12.00
+30/10/2017,Milenka,Plaza Vea,Samsung,Entel,6.00
+30/7/2017,Rodrigo,Oeschle,Apple,Tuenti,157.00
+23/3/2016,Rodrigo,Ripley,LG,Claro,28.00
+22/12/2018,Alfonso,Ripley,Apple,Tuenti,48.00
+1/11/2017,Sandra,Tottus,Samsung,Movistar,1.00
+30/6/2016,Sandra,Tottus,LG,Entel,134.00
+12/5/2015,Sandra,Oeschle,Apple,Claro,67.00
+15/7/2017,Rodrigo,Ripley,Samsung,Entel,11.00
+19/8/2015,Sandra,Plaza Vea,Samsung,Movistar,6.00
+5/1/2014,Alfonso,Plaza Vea,LG,Entel,154.00
+19/11/2015,Joaquin,Plaza Vea,Nokia,Bitel,27.00
+17/11/2014,Alfonso,Oeschle,Motorola,Movistar,18.00
+23/1/2018,Milenka,Oeschle,LG,Tuenti,42.00
+7/3/2014,Joaquin,Saga Falabella,Samsung,Claro,6.00
+12/3/2016,Alfonso,Metro,Huawei,Bitel,58.00
+12/2/2017,Fabiola,Plaza Vea,Nokia,Bitel,72.00
+30/7/2017,Sandra,Tottus,Samsung,Tuenti,235.00
+7/7/2018,Sandra,Ripley,LG,Entel,55.00
+21/4/2016,Joaquin,Metro,LG,Bitel,51.00
+25/9/2017,Fabiola,Ripley,LG,Entel,50.00
+13/9/2015,Rodrigo,Oeschle,LG,Movistar,49.00
+23/9/2018,Alfonso,Saga Falabella,LG,Entel,38.00
+18/8/2017,Milenka,Plaza Vea,Motorola,Tuenti,53.00
+21/8/2015,Sandra,Saga Falabella,LG,Bitel,23.00
+20/5/2017,Joaquin,Oeschle,Samsung,Movistar,25.00
+16/8/2015,Fabiola,Ripley,LG,Tuenti,58.00
+29/2/2016,Sandra,Saga Falabella,Motorola,Movistar,8.00
+7/1/2017,Fabiola,Plaza Vea,Nokia,Movistar,38.00
+18/9/2017,Fabiola,Plaza Vea,Apple,Movistar,25.00
+10/3/2014,Milenka,Ripley,Samsung,Movistar,9.00
+25/4/2018,Joaquin,Metro,Huawei,Bitel,55.00
+26/3/2014,Joaquin,Ripley,Samsung,Movistar,1.00
+28/11/2015,Milenka,Oeschle,LG,Entel,81.00
+10/3/2015,Rodrigo,Saga Falabella,Huawei,Bitel,21.00
+21/4/2014,Fabiola,Plaza Vea,Apple,Bitel,39.00
+30/9/2015,Rodrigo,Tottus,Apple,Tuenti,280.00
+1/10/2018,Joaquin,Oeschle,LG,Movistar,44.00
+21/6/2017,Alfonso,Metro,Motorola,Movistar,17.00
+31/5/2014,Rodrigo,Metro,Apple,Tuenti,55.00
+28/9/2016,Fabiola,Oeschle,Samsung,Entel,116.00
+3/8/2014,Rodrigo,Tottus,Huawei,Bitel,75.00
+1/12/2014,Joaquin,Metro,Samsung,Entel,10.00
+5/10/2014,Alfonso,Oeschle,Nokia,Tuenti,145.00
+1/10/2018,Alfonso,Metro,Samsung,Movistar,2.00
+29/6/2016,Sandra,Oeschle,Apple,Bitel,103.00
+3/10/2014,Alfonso,Saga Falabella,Huawei,Entel,18.00
+7/4/2017,Fabiola,Ripley,Apple,Entel,53.00
+4/9/2017,Joaquin,Saga Falabella,Apple,Claro,16.00
+28/6/2016,Sandra,Oeschle,Samsung,Bitel,70.00
+26/12/2017,Sandra,Metro,Apple,Entel,34.00
+23/7/2016,Fabiola,Tottus,Apple,Tuenti,6.00
+29/7/2018,Fabiola,Saga Falabella,LG,Movistar,2.00
+17/2/2016,Joaquin,Tottus,Nokia,Bitel,9.00
+20/5/2018,Milenka,Plaza Vea,Motorola,Tuenti,46.00
+23/8/2018,Fabiola,Tottus,Samsung,Claro,41.00
+18/8/2017,Sandra,Tottus,LG,Entel,140.00
+11/2/2018,Alfonso,Oeschle,Huawei,Tuenti,145.00
+9/10/2016,Sandra,Ripley,LG,Bitel,51.00
+8/10/2016,Fabiola,Oeschle,Huawei,Claro,66.00
+4/5/2016,Sandra,Saga Falabella,LG,Bitel,21.00
+20/3/2018,Rodrigo,Ripley,Apple,Claro,17.00
+6/4/2014,Rodrigo,Oeschle,Samsung,Claro,37.00
+7/6/2015,Milenka,Oeschle,Nokia,Entel,88.00
+13/11/2017,Rodrigo,Tottus,Samsung,Tuenti,58.00
+27/4/2014,Milenka,Oeschle,LG,Movistar,30.00
+20/5/2018,Alfonso,Tottus,Huawei,Claro,14.00
+1/2/2016,Joaquin,Saga Falabella,Motorola,Movistar,4.00
+1/6/2015,Rodrigo,Saga Falabella,LG,Claro,8.00
+14/4/2014,Joaquin,Saga Falabella,Samsung,Tuenti,1.00
+25/11/2015,Joaquin,Metro,Samsung,Bitel,79.00
+2/2/2016,Sandra,Oeschle,Samsung,Tuenti,115.00
+5/5/2018,Sandra,Metro,Nokia,Tuenti,10.00
+14/7/2014,Joaquin,Tottus,Samsung,Tuenti,29.00
+15/10/2018,Rodrigo,Oeschle,Huawei,Entel,17.00
+16/3/2018,Milenka,Ripley,Motorola,Movistar,14.00
+23/4/2017,Rodrigo,Plaza Vea,Samsung,Entel,62.00
+19/4/2017,Rodrigo,Plaza Vea,Huawei,Bitel,51.00
+10/3/2018,Fabiola,Ripley,Huawei,Movistar,12.00
+6/11/2016,Rodrigo,Metro,Huawei,Bitel,67.00
+24/9/2015,Sandra,Metro,Samsung,Bitel,77.00
+13/9/2014,Fabiola,Plaza Vea,Apple,Tuenti,176.00
+25/9/2017,Sandra,Saga Falabella,LG,Claro,18.00
+10/1/2016,Fabiola,Oeschle,Samsung,Entel,2.00
+11/11/2017,Fabiola,Oeschle,Samsung,Entel,108.00
+6/8/2015,Fabiola,Oeschle,Nokia,Bitel,61.00
+19/4/2018,Milenka,Oeschle,Huawei,Movistar,39.00
+13/11/2014,Joaquin,Oeschle,LG,Bitel,1.00
+9/11/2018,Fabiola,Metro,Motorola,Claro,16.00
+25/1/2014,Alfonso,Tottus,Nokia,Entel,10.00
+28/12/2015,Sandra,Metro,Nokia,Bitel,68.00
+24/2/2016,Joaquin,Metro,Samsung,Movistar,6.00
+2/7/2018,Fabiola,Oeschle,Huawei,Bitel,3.00
+1/5/2015,Sandra,Ripley,LG,Entel,25.00
+4/6/2018,Joaquin,Plaza Vea,Huawei,Claro,47.00
+3/4/2017,Alfonso,Ripley,Apple,Tuenti,19.00
+23/2/2015,Rodrigo,Tottus,Apple,Movistar,2.00
+10/4/2016,Joaquin,Saga Falabella,Samsung,Claro,6.00
+16/1/2014,Sandra,Metro,Nokia,Tuenti,1.00
+12/7/2014,Alfonso,Saga Falabella,Samsung,Movistar,2.00
+23/8/2016,Sandra,Tottus,Samsung,Movistar,44.00
+15/10/2014,Fabiola,Metro,LG,Claro,7.00
+1/9/2016,Rodrigo,Oeschle,Samsung,Claro,34.00
+31/12/2015,Alfonso,Tottus,Samsung,Movistar,23.00
+28/8/2015,Sandra,Plaza Vea,Nokia,Entel,72.00
+2/8/2015,Joaquin,Oeschle,LG,Tuenti,208.00
+9/9/2015,Sandra,Oeschle,LG,Claro,41.00
+5/9/2017,Fabiola,Saga Falabella,LG,Claro,18.00
+23/5/2016,Sandra,Ripley,LG,Entel,44.00
+14/8/2016,Rodrigo,Ripley,Apple,Claro,17.00
+27/7/2018,Fabiola,Plaza Vea,Samsung,Movistar,26.00
+15/7/2014,Rodrigo,Plaza Vea,LG,Claro,1.00
+26/8/2016,Fabiola,Saga Falabella,Motorola,Claro,13.00
+18/1/2016,Joaquin,Plaza Vea,LG,Entel,44.00
+17/6/2014,Joaquin,Plaza Vea,LG,Tuenti,35.00
+21/3/2014,Sandra,Metro,Huawei,Claro,53.00
+5/10/2014,Rodrigo,Saga Falabella,Motorola,Claro,6.00
+20/11/2016,Sandra,Ripley,Samsung,Bitel,8.00
+4/4/2015,Milenka,Plaza Vea,Apple,Claro,45.00
+16/11/2018,Rodrigo,Metro,Apple,Movistar,21.00
+7/7/2015,Fabiola,Plaza Vea,Apple,Bitel,23.00
+5/12/2017,Rodrigo,Tottus,Apple,Movistar,18.00
+3/7/2016,Rodrigo,Ripley,Samsung,Claro,33.00
+17/5/2017,Sandra,Plaza Vea,LG,Entel,42.00
+6/5/2018,Rodrigo,Tottus,LG,Tuenti,6.00
+27/7/2014,Joaquin,Saga Falabella,LG,Bitel,18.00
+25/4/2018,Milenka,Ripley,LG,Entel,8.00
+7/5/2018,Fabiola,Saga Falabella,Apple,Entel,10.00
+11/6/2014,Alfonso,Metro,Huawei,Tuenti,96.00
+22/12/2014,Sandra,Tottus,Apple,Tuenti,130.00
+12/3/2018,Milenka,Oeschle,LG,Claro,70.00
+26/8/2017,Joaquin,Plaza Vea,Nokia,Bitel,44.00
+17/11/2017,Milenka,Ripley,LG,Entel,50.00
+15/2/2015,Alfonso,Oeschle,Samsung,Tuenti,24.00
+4/1/2015,Fabiola,Plaza Vea,LG,Bitel,112.00
+4/12/2015,Sandra,Saga Falabella,Apple,Claro,18.00
+3/1/2018,Rodrigo,Plaza Vea,Samsung,Bitel,87.00
+21/9/2018,Alfonso,Saga Falabella,Nokia,Movistar,5.00
+6/9/2018,Rodrigo,Metro,LG,Movistar,29.00
+8/4/2014,Sandra,Tottus,Samsung,Tuenti,295.00
+30/11/2018,Fabiola,Tottus,Motorola,Bitel,46.00
+9/9/2018,Alfonso,Plaza Vea,Apple,Entel,151.00
+17/12/2018,Alfonso,Saga Falabella,Nokia,Claro,17.00
+27/3/2014,Sandra,Oeschle,Apple,Tuenti,126.00
+16/11/2014,Milenka,Oeschle,Motorola,Tuenti,10.00
+10/5/2017,Rodrigo,Metro,LG,Movistar,6.00
+23/11/2017,Rodrigo,Ripley,Huawei,Movistar,17.00
+7/4/2015,Sandra,Metro,Nokia,Movistar,18.00
+30/5/2016,Rodrigo,Saga Falabella,Samsung,Bitel,3.00
+18/12/2017,Joaquin,Tottus,LG,Claro,87.00
+27/4/2018,Milenka,Metro,Nokia,Movistar,13.00
+8/4/2017,Fabiola,Ripley,Nokia,Entel,42.00
+11/11/2016,Rodrigo,Metro,LG,Claro,55.00
+3/12/2017,Milenka,Oeschle,Apple,Tuenti,31.00
+5/1/2016,Joaquin,Metro,Motorola,Bitel,21.00
+16/3/2014,Joaquin,Oeschle,LG,Entel,112.00
+23/11/2017,Milenka,Tottus,LG,Claro,82.00
+27/5/2018,Rodrigo,Metro,Apple,Tuenti,92.00
+21/1/2017,Rodrigo,Tottus,Samsung,Claro,85.00
+15/10/2017,Alfonso,Metro,Samsung,Movistar,3.00
+27/2/2017,Joaquin,Oeschle,Motorola,Bitel,27.00
+10/11/2016,Sandra,Metro,Motorola,Entel,27.00
+18/8/2016,Alfonso,Ripley,Samsung,Tuenti,71.00
+27/8/2014,Joaquin,Metro,Samsung,Claro,57.00
+7/3/2015,Milenka,Oeschle,LG,Tuenti,34.00
+16/9/2016,Joaquin,Plaza Vea,Samsung,Entel,107.00
+17/11/2015,Fabiola,Metro,Huawei,Movistar,11.00
+26/10/2014,Milenka,Plaza Vea,Motorola,Bitel,32.00
+26/3/2015,Alfonso,Oeschle,Motorola,Entel,132.00
+3/10/2018,Joaquin,Plaza Vea,LG,Claro,44.00
+13/10/2017,Rodrigo,Oeschle,Apple,Bitel,66.00
+2/4/2014,Alfonso,Tottus,Samsung,Movistar,20.00
+23/7/2015,Joaquin,Ripley,Motorola,Movistar,16.00
+3/6/2016,Alfonso,Oeschle,LG,Bitel,134.00
+18/4/2015,Milenka,Plaza Vea,Motorola,Claro,74.00
+12/10/2015,Fabiola,Plaza Vea,Motorola,Entel,148.00
+11/5/2015,Sandra,Ripley,Apple,Movistar,1.00
+14/9/2016,Milenka,Saga Falabella,Huawei,Entel,11.00
+19/10/2017,Sandra,Ripley,LG,Claro,26.00
+26/9/2017,Alfonso,Metro,LG,Bitel,77.00
+5/6/2018,Fabiola,Ripley,LG,Tuenti,98.00
+17/4/2016,Joaquin,Ripley,Nokia,Entel,21.00
+15/12/2015,Rodrigo,Plaza Vea,Huawei,Bitel,3.00
+14/6/2017,Sandra,Ripley,Samsung,Bitel,42.00
+10/11/2014,Alfonso,Metro,Nokia,Claro,29.00
+27/12/2016,Rodrigo,Saga Falabella,Motorola,Entel,13.00
+17/3/2014,Sandra,Plaza Vea,Apple,Bitel,14.00
+14/5/2014,Alfonso,Oeschle,Huawei,Tuenti,77.00
+7/5/2014,Milenka,Ripley,Nokia,Bitel,54.00
+24/3/2018,Milenka,Tottus,Motorola,Movistar,5.00
+17/11/2018,Joaquin,Tottus,LG,Tuenti,25.00
+4/2/2017,Alfonso,Tottus,Motorola,Entel,236.00
+13/6/2014,Fabiola,Saga Falabella,Samsung,Bitel,29.00
+31/10/2014,Alfonso,Metro,Nokia,Tuenti,24.00
+24/11/2018,Fabiola,Tottus,Apple,Bitel,151.00
+25/7/2016,Fabiola,Metro,LG,Bitel,37.00
+19/8/2014,Milenka,Metro,LG,Claro,29.00
+29/6/2018,Milenka,Metro,LG,Entel,104.00
+24/12/2017,Fabiola,Tottus,LG,Entel,54.00
+19/8/2018,Joaquin,Ripley,Samsung,Entel,16.00
+10/1/2017,Joaquin,Metro,Motorola,Claro,50.00
+29/4/2017,Sandra,Oeschle,LG,Claro,63.00
+27/10/2016,Sandra,Saga Falabella,Nokia,Entel,31.00
+1/5/2018,Rodrigo,Ripley,Samsung,Claro,31.00
+23/12/2016,Joaquin,Tottus,Samsung,Tuenti,192.00
+18/1/2016,Joaquin,Tottus,Motorola,Claro,36.00
+23/8/2018,Milenka,Plaza Vea,Samsung,Claro,68.00
+28/10/2014,Milenka,Saga Falabella,Samsung,Claro,4.00
+17/10/2014,Milenka,Plaza Vea,Nokia,Bitel,18.00
+1/9/2018,Milenka,Saga Falabella,Apple,Bitel,16.00
+29/4/2018,Rodrigo,Metro,Nokia,Tuenti,36.00
+27/2/2018,Joaquin,Metro,Nokia,Movistar,6.00
+25/4/2014,Alfonso,Metro,LG,Movistar,17.00
+3/8/2018,Alfonso,Oeschle,Apple,Tuenti,129.00
+1/10/2017,Joaquin,Tottus,Samsung,Movistar,56.00
+20/7/2016,Alfonso,Metro,Apple,Bitel,81.00
+20/11/2016,Fabiola,Ripley,Apple,Bitel,57.00
+27/12/2014,Sandra,Metro,Nokia,Bitel,69.00
+12/11/2017,Alfonso,Saga Falabella,Apple,Bitel,7.00
+28/11/2016,Fabiola,Saga Falabella,Apple,Entel,3.00
+14/9/2017,Alfonso,Plaza Vea,Motorola,Movistar,13.00
+22/11/2017,Rodrigo,Ripley,LG,Movistar,3.00
+13/2/2015,Joaquin,Oeschle,Huawei,Claro,81.00
+1/9/2017,Fabiola,Ripley,Apple,Movistar,18.00
+11/12/2014,Joaquin,Ripley,Apple,Movistar,3.00
+28/4/2018,Alfonso,Saga Falabella,Samsung,Claro,13.00
+6/4/2015,Alfonso,Ripley,Samsung,Tuenti,5.00
+27/9/2015,Milenka,Saga Falabella,Nokia,Bitel,27.00
+16/2/2017,Milenka,Oeschle,Samsung,Bitel,121.00
+31/10/2014,Rodrigo,Ripley,Apple,Claro,28.00
+27/9/2018,Alfonso,Ripley,Samsung,Claro,26.00
+6/9/2015,Alfonso,Saga Falabella,Nokia,Bitel,20.00
+1/9/2014,Milenka,Plaza Vea,LG,Tuenti,141.00
+27/6/2014,Milenka,Oeschle,Samsung,Entel,139.00
+27/5/2017,Fabiola,Saga Falabella,Samsung,Entel,22.00
+7/2/2014,Rodrigo,Tottus,Apple,Entel,181.00
+5/8/2014,Fabiola,Plaza Vea,Apple,Tuenti,54.00
+8/2/2015,Alfonso,Oeschle,Samsung,Entel,46.00
+12/1/2016,Milenka,Metro,Nokia,Movistar,21.00
+9/12/2016,Joaquin,Metro,Nokia,Movistar,2.00
+25/4/2016,Rodrigo,Oeschle,Motorola,Claro,83.00
+18/3/2014,Joaquin,Saga Falabella,Samsung,Claro,4.00
+31/3/2016,Fabiola,Metro,Samsung,Entel,56.00
+21/2/2016,Milenka,Plaza Vea,Samsung,Claro,16.00
+24/5/2016,Rodrigo,Ripley,Nokia,Movistar,2.00
+27/3/2017,Milenka,Tottus,LG,Bitel,156.00
+12/6/2017,Sandra,Metro,Apple,Tuenti,138.00
+16/5/2017,Rodrigo,Tottus,Huawei,Bitel,122.00
+11/1/2016,Milenka,Metro,Apple,Movistar,9.00
+7/1/2015,Alfonso,Saga Falabella,Samsung,Movistar,7.00
+11/9/2014,Rodrigo,Metro,LG,Tuenti,88.00
+14/5/2018,Fabiola,Ripley,LG,Movistar,1.00
+24/5/2014,Milenka,Plaza Vea,Samsung,Claro,58.00
+29/11/2014,Alfonso,Metro,Nokia,Bitel,41.00
+19/9/2017,Alfonso,Oeschle,LG,Entel,20.00
+29/12/2014,Fabiola,Plaza Vea,Motorola,Tuenti,166.00
+18/3/2015,Sandra,Plaza Vea,LG,Claro,22.00
+14/2/2015,Alfonso,Metro,LG,Claro,34.00
+2/2/2015,Alfonso,Plaza Vea,LG,Bitel,93.00
+15/3/2016,Sandra,Tottus,Apple,Claro,102.00
+24/4/2015,Milenka,Plaza Vea,LG,Movistar,25.00
+3/7/2017,Sandra,Tottus,Nokia,Movistar,32.00
+21/11/2018,Sandra,Plaza Vea,Samsung,Claro,13.00
+20/11/2015,Alfonso,Tottus,LG,Tuenti,1.00
+16/8/2018,Joaquin,Metro,LG,Movistar,19.00
+2/4/2014,Milenka,Tottus,Samsung,Movistar,30.00
+4/6/2018,Rodrigo,Ripley,Samsung,Claro,30.00
+27/5/2018,Alfonso,Ripley,Huawei,Movistar,8.00
+11/5/2015,Sandra,Plaza Vea,Apple,Tuenti,109.00
+18/8/2017,Fabiola,Saga Falabella,Motorola,Bitel,23.00
+21/10/2014,Sandra,Saga Falabella,Samsung,Claro,3.00
+17/12/2017,Joaquin,Oeschle,Nokia,Movistar,8.00
+17/11/2015,Sandra,Saga Falabella,Samsung,Entel,4.00
+23/11/2016,Sandra,Metro,Samsung,Movistar,8.00
+12/7/2017,Joaquin,Saga Falabella,Nokia,Movistar,5.00
+10/11/2016,Sandra,Tottus,LG,Movistar,9.00
+28/6/2014,Milenka,Oeschle,LG,Movistar,18.00
+7/8/2018,Sandra,Tottus,Nokia,Movistar,33.00
+14/7/2018,Milenka,Plaza Vea,Motorola,Movistar,27.00
+15/11/2014,Milenka,Plaza Vea,LG,Movistar,24.00
+17/3/2015,Sandra,Plaza Vea,Samsung,Tuenti,27.00
+26/9/2016,Milenka,Oeschle,LG,Entel,21.00
+8/9/2014,Fabiola,Ripley,LG,Claro,32.00
+30/3/2015,Fabiola,Ripley,LG,Tuenti,47.00
+26/12/2016,Rodrigo,Ripley,Nokia,Movistar,3.00
+21/3/2014,Fabiola,Ripley,Apple,Tuenti,95.00
+16/10/2017,Alfonso,Saga Falabella,LG,Entel,17.00
+9/2/2017,Alfonso,Plaza Vea,Samsung,Tuenti,27.00
+4/8/2018,Joaquin,Tottus,Nokia,Entel,234.00
+25/5/2018,Rodrigo,Plaza Vea,Samsung,Claro,59.00
+24/12/2015,Alfonso,Metro,Nokia,Movistar,23.00
+2/1/2015,Milenka,Plaza Vea,Huawei,Entel,127.00
+3/6/2016,Alfonso,Plaza Vea,Apple,Tuenti,94.00
+30/7/2017,Joaquin,Metro,Motorola,Entel,51.00
+14/5/2017,Rodrigo,Ripley,LG,Claro,15.00
+5/9/2018,Rodrigo,Saga Falabella,Motorola,Bitel,21.00
+13/8/2015,Joaquin,Oeschle,Samsung,Claro,98.00
+26/12/2015,Fabiola,Ripley,Motorola,Entel,44.00
+16/3/2014,Milenka,Saga Falabella,LG,Tuenti,19.00
+29/5/2016,Fabiola,Saga Falabella,Samsung,Movistar,9.00
+17/10/2014,Milenka,Tottus,Samsung,Tuenti,49.00
+8/1/2015,Sandra,Plaza Vea,Motorola,Tuenti,107.00
+26/12/2015,Milenka,Oeschle,Nokia,Tuenti,226.00
+3/1/2016,Sandra,Metro,Apple,Bitel,87.00
+15/3/2016,Fabiola,Oeschle,Nokia,Claro,74.00
+17/6/2016,Fabiola,Ripley,LG,Bitel,15.00
+11/1/2015,Fabiola,Ripley,Nokia,Entel,46.00
+10/10/2014,Rodrigo,Tottus,Samsung,Claro,20.00
+9/4/2016,Alfonso,Tottus,Nokia,Claro,107.00
+20/1/2018,Sandra,Metro,Samsung,Entel,31.00
+15/7/2016,Joaquin,Plaza Vea,Motorola,Tuenti,62.00
+8/9/2017,Milenka,Metro,Samsung,Entel,20.00
+4/4/2018,Joaquin,Metro,Apple,Tuenti,134.00
+7/2/2014,Alfonso,Plaza Vea,Huawei,Bitel,12.00
+27/2/2017,Sandra,Saga Falabella,Motorola,Movistar,9.00
+10/12/2017,Joaquin,Ripley,Nokia,Tuenti,54.00
+2/3/2015,Rodrigo,Plaza Vea,Motorola,Claro,73.00
+23/6/2015,Rodrigo,Oeschle,LG,Claro,49.00
+9/12/2017,Sandra,Saga Falabella,Apple,Tuenti,23.00
+10/8/2018,Milenka,Oeschle,Samsung,Tuenti,63.00
+28/4/2015,Rodrigo,Oeschle,Apple,Movistar,23.00
+10/2/2015,Alfonso,Saga Falabella,Samsung,Claro,14.00
+18/12/2015,Fabiola,Tottus,Apple,Bitel,131.00
+8/5/2017,Alfonso,Tottus,LG,Entel,91.00
+30/11/2018,Fabiola,Saga Falabella,Huawei,Movistar,5.00
+9/5/2015,Rodrigo,Ripley,LG,Claro,21.00
+15/9/2017,Fabiola,Plaza Vea,LG,Claro,40.00
+18/9/2016,Fabiola,Ripley,Samsung,Movistar,3.00
+28/12/2014,Milenka,Metro,Nokia,Tuenti,11.00
+25/8/2017,Alfonso,Tottus,Motorola,Tuenti,273.00
+10/10/2014,Sandra,Plaza Vea,LG,Movistar,38.00
+27/9/2015,Rodrigo,Oeschle,Nokia,Tuenti,143.00
+23/5/2016,Alfonso,Oeschle,Motorola,Claro,35.00
+31/10/2016,Milenka,Ripley,Apple,Bitel,49.00
+4/4/2015,Rodrigo,Plaza Vea,Motorola,Bitel,107.00
+20/10/2016,Alfonso,Ripley,Apple,Claro,5.00
+6/7/2015,Rodrigo,Tottus,Apple,Tuenti,250.00
+30/6/2016,Milenka,Oeschle,Samsung,Movistar,36.00
+26/1/2016,Sandra,Ripley,Nokia,Claro,31.00
+26/6/2016,Alfonso,Tottus,LG,Bitel,93.00
+28/3/2017,Alfonso,Plaza Vea,LG,Tuenti,191.00
+8/10/2015,Milenka,Plaza Vea,Samsung,Movistar,22.00
+13/8/2017,Joaquin,Saga Falabella,Apple,Claro,14.00
+28/6/2015,Rodrigo,Ripley,Nokia,Tuenti,1.00
+18/2/2016,Milenka,Tottus,Samsung,Movistar,43.00
+7/9/2014,Fabiola,Plaza Vea,Huawei,Claro,6.00
+18/2/2016,Alfonso,Saga Falabella,Motorola,Entel,37.00
+8/11/2015,Milenka,Oeschle,Samsung,Entel,43.00
+23/11/2016,Rodrigo,Metro,Motorola,Claro,20.00
+4/7/2018,Fabiola,Oeschle,Nokia,Tuenti,186.00
+27/2/2018,Milenka,Tottus,Motorola,Movistar,26.00
+2/2/2015,Milenka,Saga Falabella,Nokia,Bitel,11.00
+14/2/2017,Alfonso,Oeschle,LG,Movistar,47.00
+12/8/2014,Joaquin,Metro,Nokia,Entel,78.00
+28/11/2016,Joaquin,Saga Falabella,Samsung,Tuenti,32.00
+14/6/2018,Milenka,Tottus,LG,Bitel,81.00
+21/11/2016,Milenka,Saga Falabella,Motorola,Tuenti,1.00
+22/10/2018,Sandra,Plaza Vea,Apple,Bitel,15.00
+27/3/2016,Joaquin,Saga Falabella,Samsung,Claro,15.00
+28/3/2016,Rodrigo,Ripley,Apple,Bitel,28.00
+21/9/2016,Alfonso,Ripley,LG,Movistar,14.00
+23/12/2017,Joaquin,Oeschle,LG,Entel,196.00
+20/4/2016,Milenka,Tottus,LG,Claro,38.00
+7/9/2014,Joaquin,Saga Falabella,LG,Movistar,6.00
+28/7/2015,Joaquin,Metro,Samsung,Entel,29.00
+28/12/2014,Joaquin,Saga Falabella,Huawei,Movistar,7.00
+5/11/2017,Alfonso,Ripley,Nokia,Bitel,18.00
+31/8/2018,Milenka,Ripley,Nokia,Movistar,4.00
+28/2/2016,Fabiola,Tottus,LG,Movistar,42.00
+4/12/2017,Alfonso,Metro,Apple,Movistar,6.00
+21/11/2016,Alfonso,Metro,Motorola,Claro,33.00
+6/10/2018,Milenka,Saga Falabella,LG,Bitel,13.00
+7/6/2017,Sandra,Metro,Samsung,Entel,109.00
+16/9/2016,Sandra,Metro,Nokia,Movistar,13.00
+10/9/2016,Alfonso,Saga Falabella,Huawei,Movistar,4.00
+6/1/2017,Joaquin,Tottus,Apple,Entel,131.00
+4/6/2015,Fabiola,Oeschle,Huawei,Tuenti,225.00
+6/11/2015,Alfonso,Saga Falabella,Apple,Movistar,9.00
+24/1/2014,Sandra,Plaza Vea,Apple,Movistar,26.00
+1/6/2017,Alfonso,Saga Falabella,Samsung,Bitel,27.00
+18/4/2016,Fabiola,Metro,LG,Claro,29.00
+1/12/2014,Rodrigo,Metro,LG,Entel,27.00
+25/1/2016,Alfonso,Metro,Nokia,Claro,19.00
+31/12/2018,Joaquin,Metro,Samsung,Tuenti,30.00
+3/12/2018,Rodrigo,Metro,Huawei,Claro,20.00
+30/11/2016,Joaquin,Oeschle,Nokia,Bitel,116.00
+18/1/2014,Rodrigo,Oeschle,Apple,Bitel,68.00
+8/11/2014,Fabiola,Plaza Vea,Huawei,Movistar,27.00
+28/12/2016,Rodrigo,Saga Falabella,Samsung,Movistar,3.00
+28/6/2014,Milenka,Oeschle,Motorola,Movistar,20.00
+17/5/2018,Sandra,Oeschle,Nokia,Claro,91.00
+25/6/2015,Milenka,Ripley,Apple,Movistar,5.00
+10/2/2014,Alfonso,Metro,Huawei,Tuenti,83.00
+26/4/2014,Alfonso,Ripley,Apple,Tuenti,85.00
+25/9/2018,Sandra,Ripley,Nokia,Bitel,51.00
+30/11/2014,Sandra,Metro,LG,Claro,45.00
+10/8/2017,Fabiola,Metro,Samsung,Tuenti,110.00
+11/11/2014,Milenka,Tottus,LG,Tuenti,199.00
+19/12/2016,Alfonso,Oeschle,LG,Bitel,140.00
+11/10/2014,Alfonso,Saga Falabella,Nokia,Movistar,2.00
+16/5/2017,Alfonso,Ripley,Motorola,Tuenti,43.00
+7/1/2016,Joaquin,Saga Falabella,Apple,Entel,3.00
+16/6/2014,Alfonso,Oeschle,Apple,Claro,53.00
+9/7/2015,Alfonso,Saga Falabella,Apple,Bitel,1.00
+17/2/2014,Milenka,Tottus,Nokia,Claro,42.00
+3/2/2014,Fabiola,Tottus,LG,Tuenti,28.00
+10/12/2014,Rodrigo,Plaza Vea,Huawei,Claro,39.00
+26/1/2018,Fabiola,Tottus,Huawei,Claro,96.00
+14/5/2015,Alfonso,Plaza Vea,Apple,Claro,4.00
+28/4/2014,Fabiola,Ripley,LG,Entel,9.00
+8/3/2014,Sandra,Saga Falabella,Apple,Entel,23.00
+22/1/2015,Sandra,Metro,Huawei,Movistar,6.00
+23/8/2016,Rodrigo,Saga Falabella,Huawei,Tuenti,21.00
+10/3/2018,Sandra,Oeschle,LG,Tuenti,88.00
+22/7/2014,Joaquin,Plaza Vea,Motorola,Tuenti,111.00
+8/6/2017,Alfonso,Saga Falabella,Nokia,Movistar,1.00
+29/11/2014,Alfonso,Oeschle,Nokia,Tuenti,249.00
+18/4/2017,Milenka,Plaza Vea,Samsung,Claro,67.00
+10/7/2015,Fabiola,Tottus,LG,Bitel,87.00
+25/10/2018,Alfonso,Plaza Vea,Huawei,Claro,15.00
+19/5/2015,Milenka,Metro,Samsung,Entel,9.00
+18/12/2015,Milenka,Oeschle,LG,Movistar,27.00
+24/2/2017,Milenka,Plaza Vea,LG,Tuenti,106.00
+28/4/2016,Joaquin,Plaza Vea,Motorola,Movistar,1.00
+7/7/2014,Fabiola,Saga Falabella,LG,Tuenti,14.00
+19/2/2015,Fabiola,Tottus,LG,Entel,165.00
+21/8/2015,Joaquin,Ripley,Samsung,Entel,42.00
+31/8/2018,Fabiola,Plaza Vea,Motorola,Entel,19.00
+28/12/2014,Alfonso,Ripley,Huawei,Claro,9.00
+10/7/2015,Rodrigo,Metro,LG,Bitel,46.00
+12/9/2016,Rodrigo,Ripley,Samsung,Entel,60.00
+14/4/2014,Joaquin,Ripley,Nokia,Claro,9.00
+1/12/2014,Fabiola,Oeschle,Huawei,Bitel,55.00
+14/4/2016,Rodrigo,Oeschle,Samsung,Movistar,37.00
+19/9/2015,Fabiola,Tottus,Apple,Movistar,57.00
+2/2/2018,Sandra,Ripley,Apple,Movistar,15.00
+11/9/2018,Alfonso,Plaza Vea,LG,Entel,31.00
+26/1/2018,Milenka,Plaza Vea,LG,Tuenti,133.00
+29/5/2015,Milenka,Plaza Vea,Apple,Entel,86.00
+2/6/2017,Fabiola,Plaza Vea,Huawei,Bitel,54.00
+4/11/2018,Rodrigo,Saga Falabella,Samsung,Movistar,5.00
+2/5/2018,Milenka,Metro,Apple,Claro,29.00
+3/8/2015,Sandra,Plaza Vea,Samsung,Bitel,21.00
+21/7/2014,Milenka,Ripley,LG,Bitel,49.00
+24/11/2018,Alfonso,Ripley,Motorola,Claro,2.00
+13/10/2017,Fabiola,Saga Falabella,Samsung,Bitel,4.00
+13/11/2017,Milenka,Saga Falabella,Apple,Tuenti,32.00
+12/3/2016,Alfonso,Plaza Vea,LG,Bitel,15.00
+11/10/2018,Alfonso,Ripley,Samsung,Movistar,19.00
+27/2/2015,Alfonso,Saga Falabella,Samsung,Movistar,4.00
+6/10/2018,Sandra,Tottus,LG,Claro,26.00
+13/7/2017,Sandra,Saga Falabella,Huawei,Claro,18.00
+27/3/2015,Alfonso,Saga Falabella,LG,Tuenti,42.00
+5/12/2018,Alfonso,Metro,Motorola,Movistar,24.00
+10/3/2016,Alfonso,Tottus,Motorola,Claro,41.00
+21/5/2018,Alfonso,Ripley,Motorola,Bitel,56.00
+14/10/2015,Joaquin,Oeschle,Nokia,Entel,88.00
+15/2/2017,Joaquin,Ripley,LG,Tuenti,63.00
+9/4/2014,Alfonso,Saga Falabella,LG,Movistar,5.00
+21/2/2014,Sandra,Oeschle,Samsung,Movistar,24.00
+12/5/2016,Sandra,Ripley,LG,Tuenti,83.00
+3/12/2016,Rodrigo,Tottus,Huawei,Tuenti,26.00
+20/5/2017,Rodrigo,Saga Falabella,LG,Movistar,1.00
+22/4/2018,Alfonso,Ripley,LG,Claro,17.00
+21/9/2017,Milenka,Oeschle,Nokia,Tuenti,192.00
+6/12/2016,Rodrigo,Plaza Vea,Apple,Entel,23.00
+9/3/2017,Milenka,Tottus,Apple,Movistar,58.00
+23/1/2016,Alfonso,Oeschle,Motorola,Movistar,21.00
+16/12/2014,Rodrigo,Ripley,Nokia,Tuenti,65.00
+27/12/2017,Fabiola,Ripley,Samsung,Movistar,13.00
+11/1/2017,Sandra,Saga Falabella,LG,Tuenti,49.00
+16/4/2015,Fabiola,Tottus,Huawei,Entel,106.00
+4/10/2016,Rodrigo,Ripley,LG,Claro,3.00
+26/5/2018,Alfonso,Tottus,LG,Claro,45.00
+9/12/2014,Milenka,Plaza Vea,Apple,Movistar,31.00
+8/12/2018,Joaquin,Oeschle,Apple,Bitel,14.00
+8/2/2017,Joaquin,Ripley,Motorola,Bitel,55.00
+19/9/2015,Sandra,Saga Falabella,LG,Bitel,14.00
+5/7/2018,Alfonso,Ripley,Nokia,Bitel,30.00
+21/2/2018,Alfonso,Plaza Vea,Apple,Claro,4.00
+17/10/2015,Milenka,Tottus,LG,Claro,1.00
+4/2/2014,Fabiola,Metro,Samsung,Tuenti,142.00
+1/7/2017,Rodrigo,Tottus,LG,Entel,162.00
+14/10/2017,Sandra,Plaza Vea,Apple,Tuenti,185.00
+30/4/2016,Alfonso,Tottus,Samsung,Entel,55.00
+9/10/2018,Milenka,Tottus,Nokia,Movistar,58.00
+11/10/2017,Rodrigo,Oeschle,Nokia,Entel,124.00
+18/9/2016,Alfonso,Ripley,Apple,Claro,34.00
+1/9/2015,Rodrigo,Tottus,Apple,Tuenti,245.00
+18/8/2014,Sandra,Metro,Huawei,Bitel,71.00
+5/5/2016,Sandra,Oeschle,Nokia,Bitel,76.00
+21/7/2014,Joaquin,Tottus,Huawei,Movistar,23.00
+17/10/2014,Rodrigo,Saga Falabella,Huawei,Bitel,29.00
+2/5/2017,Joaquin,Ripley,Apple,Movistar,11.00
+24/12/2018,Joaquin,Metro,Huawei,Bitel,70.00
+9/4/2016,Rodrigo,Metro,Nokia,Movistar,17.00
+9/11/2015,Rodrigo,Ripley,Apple,Tuenti,53.00
+23/3/2018,Sandra,Saga Falabella,LG,Claro,19.00
+6/2/2017,Sandra,Saga Falabella,Huawei,Bitel,4.00
+5/7/2016,Rodrigo,Saga Falabella,Samsung,Claro,5.00
+10/4/2018,Milenka,Oeschle,LG,Bitel,60.00
+28/2/2017,Milenka,Tottus,LG,Tuenti,212.00
+5/10/2016,Sandra,Ripley,Apple,Bitel,1.00
+16/9/2017,Milenka,Plaza Vea,Huawei,Claro,52.00
+21/5/2014,Rodrigo,Metro,Huawei,Entel,27.00
+1/2/2016,Alfonso,Tottus,LG,Entel,54.00
+17/5/2018,Rodrigo,Oeschle,Motorola,Tuenti,119.00
+8/1/2015,Rodrigo,Plaza Vea,Apple,Tuenti,153.00
+11/12/2015,Fabiola,Oeschle,Nokia,Claro,64.00
+5/9/2017,Milenka,Oeschle,LG,Bitel,91.00
+25/8/2016,Milenka,Tottus,Samsung,Movistar,26.00
+19/9/2018,Sandra,Oeschle,Motorola,Bitel,31.00
+17/1/2017,Sandra,Ripley,Nokia,Bitel,31.00
+23/10/2014,Sandra,Tottus,Motorola,Entel,173.00
+4/11/2016,Joaquin,Plaza Vea,Apple,Bitel,93.00
+10/4/2015,Rodrigo,Tottus,Apple,Movistar,30.00
+12/1/2015,Joaquin,Saga Falabella,LG,Claro,13.00
+8/6/2015,Sandra,Metro,Apple,Tuenti,15.00
+5/10/2015,Joaquin,Plaza Vea,LG,Entel,112.00
+26/12/2015,Milenka,Plaza Vea,Apple,Claro,52.00
+13/7/2016,Milenka,Ripley,Motorola,Bitel,15.00
+27/11/2017,Rodrigo,Plaza Vea,LG,Claro,19.00
+24/2/2015,Alfonso,Tottus,Huawei,Movistar,20.00
+14/5/2016,Rodrigo,Ripley,Samsung,Movistar,5.00
+22/11/2014,Joaquin,Oeschle,Samsung,Bitel,114.00
+24/2/2015,Milenka,Ripley,Apple,Entel,66.00
+12/8/2014,Alfonso,Plaza Vea,LG,Claro,26.00
+8/2/2015,Milenka,Oeschle,Motorola,Tuenti,73.00
+20/9/2018,Sandra,Tottus,LG,Tuenti,27.00
+16/11/2016,Joaquin,Metro,Huawei,Tuenti,59.00
+9/11/2018,Joaquin,Plaza Vea,Samsung,Bitel,83.00
+25/2/2014,Alfonso,Tottus,Samsung,Bitel,119.00
+3/6/2018,Sandra,Saga Falabella,Samsung,Claro,11.00
+3/11/2017,Milenka,Oeschle,Samsung,Movistar,37.00
+5/10/2015,Rodrigo,Metro,Huawei,Bitel,37.00
+8/11/2017,Milenka,Ripley,Nokia,Movistar,11.00
+21/9/2017,Fabiola,Metro,Motorola,Claro,43.00
+21/1/2014,Alfonso,Ripley,Apple,Tuenti,25.00
+13/4/2016,Sandra,Metro,Samsung,Claro,16.00
+20/9/2014,Joaquin,Saga Falabella,Samsung,Tuenti,43.00
+27/6/2018,Milenka,Tottus,Nokia,Movistar,10.00
+9/5/2017,Sandra,Metro,Apple,Tuenti,89.00
+28/8/2018,Fabiola,Oeschle,LG,Claro,52.00
+19/6/2015,Joaquin,Ripley,Samsung,Tuenti,1.00
+5/11/2017,Rodrigo,Saga Falabella,Huawei,Claro,10.00
+20/10/2017,Joaquin,Saga Falabella,Apple,Bitel,11.00
+14/4/2016,Fabiola,Plaza Vea,Motorola,Tuenti,1.00
+4/5/2014,Alfonso,Ripley,Samsung,Movistar,5.00
+1/1/2017,Joaquin,Plaza Vea,Huawei,Movistar,23.00
+25/3/2017,Alfonso,Saga Falabella,Huawei,Claro,5.00
+16/9/2014,Sandra,Plaza Vea,Apple,Entel,41.00
+18/1/2015,Joaquin,Metro,Nokia,Entel,83.00
+21/8/2016,Joaquin,Tottus,LG,Bitel,91.00
+2/8/2017,Fabiola,Tottus,Apple,Entel,47.00
+4/5/2017,Sandra,Ripley,Huawei,Tuenti,66.00
+12/9/2015,Sandra,Ripley,Samsung,Entel,11.00
+4/1/2016,Rodrigo,Plaza Vea,Samsung,Movistar,36.00
+6/6/2017,Rodrigo,Metro,Huawei,Claro,27.00
+5/6/2014,Sandra,Ripley,LG,Movistar,4.00
+23/4/2018,Alfonso,Plaza Vea,Nokia,Movistar,26.00
+22/1/2014,Joaquin,Saga Falabella,Apple,Claro,18.00
+31/12/2018,Fabiola,Tottus,Huawei,Entel,140.00
+20/9/2014,Fabiola,Oeschle,Samsung,Claro,20.00
+19/5/2014,Fabiola,Plaza Vea,Huawei,Tuenti,56.00
+6/4/2016,Milenka,Ripley,LG,Entel,75.00
+15/5/2016,Fabiola,Metro,Samsung,Claro,24.00
+24/10/2016,Joaquin,Ripley,Samsung,Movistar,2.00
+24/11/2015,Alfonso,Saga Falabella,LG,Movistar,7.00
+16/1/2017,Milenka,Ripley,Motorola,Tuenti,49.00
+3/5/2014,Joaquin,Plaza Vea,Samsung,Movistar,1.00
+27/7/2018,Milenka,Metro,Motorola,Movistar,18.00
+25/6/2015,Rodrigo,Metro,Apple,Tuenti,38.00
+1/6/2014,Joaquin,Oeschle,Apple,Entel,166.00
+6/9/2015,Alfonso,Plaza Vea,Apple,Tuenti,166.00
+20/3/2014,Alfonso,Plaza Vea,Samsung,Claro,15.00
+22/6/2014,Alfonso,Saga Falabella,Samsung,Movistar,4.00
+6/8/2018,Milenka,Tottus,Apple,Movistar,43.00
+13/5/2014,Alfonso,Oeschle,Apple,Tuenti,57.00
+23/9/2017,Sandra,Plaza Vea,Samsung,Bitel,48.00
+21/6/2016,Rodrigo,Plaza Vea,Apple,Claro,40.00
+7/5/2016,Joaquin,Tottus,Samsung,Bitel,17.00
+21/8/2018,Rodrigo,Tottus,Huawei,Bitel,143.00
+3/9/2015,Milenka,Oeschle,LG,Tuenti,135.00
+27/4/2017,Fabiola,Metro,Motorola,Movistar,3.00
+5/10/2016,Sandra,Oeschle,LG,Entel,46.00
+21/11/2017,Joaquin,Metro,Nokia,Entel,89.00
+16/1/2016,Fabiola,Ripley,LG,Movistar,6.00
+21/3/2014,Rodrigo,Ripley,Apple,Claro,17.00
+24/5/2017,Alfonso,Saga Falabella,Motorola,Claro,5.00
+12/6/2015,Alfonso,Tottus,Motorola,Entel,138.00
+25/10/2014,Milenka,Plaza Vea,LG,Claro,38.00
+4/3/2014,Joaquin,Plaza Vea,LG,Claro,57.00
+14/4/2017,Alfonso,Oeschle,LG,Bitel,78.00
+31/3/2018,Sandra,Metro,Nokia,Bitel,33.00
+14/8/2017,Milenka,Tottus,Samsung,Entel,34.00
+28/10/2017,Rodrigo,Ripley,LG,Claro,7.00
+19/3/2018,Rodrigo,Plaza Vea,LG,Entel,80.00
+23/6/2015,Fabiola,Metro,Samsung,Bitel,70.00
+10/8/2017,Rodrigo,Metro,Huawei,Claro,8.00
+12/2/2016,Alfonso,Tottus,Nokia,Entel,17.00
+10/5/2018,Rodrigo,Oeschle,Samsung,Entel,181.00
+16/2/2017,Sandra,Oeschle,Apple,Claro,70.00
+13/12/2014,Rodrigo,Tottus,Huawei,Entel,70.00
+21/1/2014,Sandra,Saga Falabella,LG,Tuenti,8.00
+8/5/2018,Alfonso,Tottus,Apple,Movistar,27.00
+13/2/2014,Milenka,Saga Falabella,Motorola,Bitel,24.00
+21/4/2018,Alfonso,Tottus,Apple,Claro,85.00
+5/2/2015,Joaquin,Metro,Motorola,Movistar,17.00
+16/8/2017,Milenka,Tottus,LG,Claro,94.00
+19/12/2016,Sandra,Plaza Vea,Apple,Bitel,10.00
+18/12/2017,Joaquin,Ripley,Motorola,Tuenti,31.00
+15/1/2017,Sandra,Plaza Vea,LG,Bitel,8.00
+1/3/2014,Rodrigo,Oeschle,Huawei,Tuenti,5.00
+26/4/2014,Fabiola,Metro,Apple,Entel,38.00
+2/5/2015,Joaquin,Tottus,Nokia,Bitel,175.00
+27/9/2017,Rodrigo,Plaza Vea,LG,Entel,126.00
+20/5/2018,Alfonso,Tottus,Huawei,Claro,14.00
+6/11/2014,Fabiola,Ripley,Samsung,Movistar,2.00
+13/6/2018,Alfonso,Saga Falabella,Huawei,Bitel,9.00
+23/6/2014,Rodrigo,Saga Falabella,LG,Movistar,9.00
+17/1/2015,Milenka,Metro,Motorola,Entel,24.00
+22/12/2016,Sandra,Ripley,Apple,Entel,7.00
+5/6/2017,Rodrigo,Plaza Vea,Nokia,Entel,64.00
+31/8/2014,Joaquin,Metro,LG,Tuenti,107.00
+24/9/2018,Fabiola,Plaza Vea,Samsung,Movistar,27.00
+26/4/2015,Milenka,Metro,Apple,Claro,9.00
+30/5/2018,Joaquin,Tottus,Motorola,Entel,233.00
+27/6/2018,Milenka,Ripley,LG,Entel,64.00
+31/10/2015,Alfonso,Ripley,LG,Bitel,34.00
+12/6/2018,Rodrigo,Oeschle,LG,Entel,88.00
+4/1/2016,Fabiola,Tottus,Apple,Tuenti,114.00
+3/3/2018,Alfonso,Oeschle,Samsung,Movistar,34.00
+9/10/2014,Joaquin,Saga Falabella,Samsung,Claro,1.00
+7/9/2016,Rodrigo,Metro,Samsung,Bitel,22.00
+2/11/2014,Milenka,Oeschle,Huawei,Entel,165.00
+20/3/2014,Alfonso,Saga Falabella,Motorola,Entel,22.00
+21/5/2017,Alfonso,Tottus,LG,Tuenti,10.00
+23/6/2017,Alfonso,Metro,Motorola,Entel,69.00
+11/11/2016,Rodrigo,Saga Falabella,Apple,Entel,6.00
+7/4/2016,Fabiola,Plaza Vea,Nokia,Entel,154.00
+27/10/2015,Rodrigo,Ripley,Samsung,Claro,12.00
+18/4/2014,Fabiola,Ripley,LG,Bitel,48.00
+15/2/2016,Sandra,Ripley,Samsung,Tuenti,96.00
+26/7/2015,Alfonso,Plaza Vea,LG,Bitel,21.00
+17/3/2017,Alfonso,Tottus,Motorola,Movistar,4.00
+3/12/2018,Sandra,Oeschle,Nokia,Movistar,42.00
+19/9/2014,Milenka,Metro,Huawei,Bitel,36.00
+13/6/2016,Joaquin,Oeschle,Samsung,Entel,65.00
+13/2/2017,Rodrigo,Tottus,LG,Tuenti,143.00
+22/5/2018,Sandra,Plaza Vea,Motorola,Movistar,13.00
+11/12/2016,Sandra,Saga Falabella,Huawei,Claro,11.00
+8/12/2018,Sandra,Tottus,Nokia,Claro,51.00
+4/2/2014,Milenka,Metro,LG,Entel,77.00
+3/2/2017,Rodrigo,Tottus,LG,Bitel,14.00
+23/5/2014,Milenka,Ripley,Nokia,Movistar,5.00
+7/11/2018,Fabiola,Tottus,LG,Claro,116.00
+15/2/2018,Alfonso,Metro,Samsung,Bitel,71.00
+19/3/2016,Alfonso,Metro,Motorola,Entel,76.00
+28/3/2016,Alfonso,Plaza Vea,Samsung,Tuenti,88.00
+27/11/2018,Fabiola,Plaza Vea,Samsung,Bitel,107.00
+20/5/2018,Sandra,Metro,Samsung,Bitel,16.00
+20/7/2015,Joaquin,Tottus,Samsung,Entel,173.00
+27/7/2017,Fabiola,Saga Falabella,LG,Tuenti,44.00
+29/11/2014,Alfonso,Plaza Vea,LG,Movistar,32.00
+11/6/2015,Sandra,Metro,Huawei,Claro,39.00
+4/10/2014,Milenka,Saga Falabella,Samsung,Claro,14.00
+17/2/2015,Sandra,Tottus,Huawei,Claro,32.00
+11/5/2014,Alfonso,Tottus,Samsung,Bitel,10.00
+11/8/2015,Joaquin,Metro,Nokia,Claro,7.00
+2/1/2015,Rodrigo,Tottus,LG,Entel,15.00
+15/11/2014,Fabiola,Ripley,Apple,Claro,21.00
+12/9/2018,Milenka,Metro,Motorola,Bitel,9.00
+31/1/2016,Milenka,Metro,Samsung,Claro,31.00
+15/6/2014,Sandra,Ripley,LG,Tuenti,98.00
+10/2/2017,Rodrigo,Oeschle,Samsung,Tuenti,69.00
+6/1/2018,Sandra,Tottus,Samsung,Bitel,177.00
+1/7/2016,Milenka,Saga Falabella,Huawei,Bitel,16.00
+23/9/2016,Rodrigo,Metro,Nokia,Claro,29.00
+22/8/2016,Rodrigo,Oeschle,Apple,Movistar,44.00
+22/7/2014,Alfonso,Oeschle,Motorola,Claro,6.00
+23/12/2018,Joaquin,Saga Falabella,Apple,Tuenti,5.00
+23/1/2015,Rodrigo,Saga Falabella,Motorola,Claro,1.00
+26/6/2017,Milenka,Ripley,Apple,Bitel,3.00
+8/12/2017,Fabiola,Saga Falabella,LG,Tuenti,46.00
+19/6/2018,Milenka,Plaza Vea,Motorola,Tuenti,56.00
+18/2/2015,Fabiola,Metro,Huawei,Entel,69.00
+3/9/2015,Sandra,Oeschle,LG,Bitel,12.00
+14/11/2016,Fabiola,Ripley,Huawei,Entel,35.00
+31/1/2016,Rodrigo,Plaza Vea,LG,Claro,12.00
+13/3/2016,Alfonso,Tottus,Huawei,Bitel,30.00
+9/10/2017,Joaquin,Ripley,Samsung,Claro,26.00
+11/6/2016,Alfonso,Oeschle,Samsung,Tuenti,223.00
+24/10/2018,Joaquin,Metro,LG,Tuenti,35.00
+21/3/2016,Alfonso,Oeschle,LG,Entel,4.00
+17/10/2017,Joaquin,Tottus,LG,Claro,12.00
+22/5/2014,Fabiola,Plaza Vea,Apple,Claro,40.00
+15/7/2015,Alfonso,Tottus,Nokia,Movistar,36.00
+23/11/2014,Sandra,Tottus,Motorola,Movistar,21.00
+5/4/2014,Sandra,Metro,LG,Claro,21.00
+1/3/2014,Alfonso,Saga Falabella,Huawei,Claro,1.00
+11/2/2015,Joaquin,Ripley,Apple,Tuenti,39.00
+1/10/2014,Rodrigo,Tottus,Apple,Bitel,66.00
+22/10/2016,Rodrigo,Saga Falabella,LG,Movistar,6.00
+2/9/2017,Alfonso,Oeschle,Huawei,Tuenti,165.00
+10/1/2018,Joaquin,Saga Falabella,Apple,Bitel,1.00
+6/1/2016,Sandra,Tottus,Samsung,Tuenti,270.00
+13/8/2015,Milenka,Oeschle,Motorola,Entel,159.00
+2/10/2014,Rodrigo,Metro,LG,Movistar,17.00
+16/11/2014,Alfonso,Saga Falabella,Apple,Claro,17.00
+12/5/2015,Sandra,Metro,Samsung,Bitel,59.00
+16/11/2017,Fabiola,Metro,Nokia,Movistar,11.00
+25/9/2016,Rodrigo,Plaza Vea,Motorola,Claro,61.00
+21/7/2014,Sandra,Metro,Apple,Movistar,8.00
+4/9/2014,Milenka,Plaza Vea,Motorola,Tuenti,35.00
+10/7/2017,Rodrigo,Plaza Vea,LG,Claro,53.00
+1/9/2016,Rodrigo,Metro,Apple,Entel,43.00
+20/12/2015,Joaquin,Tottus,LG,Bitel,59.00
+4/9/2017,Sandra,Oeschle,Apple,Movistar,1.00
+22/6/2014,Alfonso,Saga Falabella,LG,Bitel,19.00
+18/12/2017,Milenka,Oeschle,Samsung,Tuenti,219.00
+6/4/2016,Milenka,Tottus,Samsung,Entel,212.00
+26/3/2017,Sandra,Plaza Vea,Huawei,Tuenti,178.00
+31/8/2014,Alfonso,Oeschle,LG,Bitel,12.00
+21/5/2017,Rodrigo,Tottus,Samsung,Entel,30.00
+19/6/2016,Milenka,Metro,LG,Claro,39.00
+16/2/2018,Rodrigo,Tottus,Motorola,Entel,175.00
+3/9/2018,Rodrigo,Plaza Vea,LG,Claro,78.00
+9/8/2014,Fabiola,Tottus,LG,Claro,52.00
+23/9/2018,Rodrigo,Ripley,Apple,Bitel,51.00
+31/8/2018,Sandra,Plaza Vea,LG,Claro,20.00
+21/12/2015,Rodrigo,Tottus,Motorola,Entel,41.00
+7/3/2014,Joaquin,Ripley,LG,Movistar,12.00
+29/1/2018,Alfonso,Metro,Motorola,Entel,92.00
+22/1/2015,Milenka,Oeschle,LG,Claro,84.00
+5/7/2016,Joaquin,Tottus,LG,Claro,86.00
+6/4/2014,Sandra,Tottus,LG,Bitel,174.00
+8/4/2015,Rodrigo,Tottus,Huawei,Entel,28.00
+24/7/2018,Joaquin,Metro,Motorola,Claro,59.00
+17/7/2015,Alfonso,Metro,Huawei,Movistar,26.00
+30/3/2015,Fabiola,Ripley,Apple,Claro,22.00
+24/4/2015,Sandra,Metro,Motorola,Claro,17.00
+19/9/2016,Alfonso,Saga Falabella,Samsung,Tuenti,34.00
+20/11/2014,Milenka,Metro,LG,Bitel,9.00
+19/3/2018,Sandra,Ripley,LG,Entel,55.00
+26/7/2015,Sandra,Saga Falabella,Apple,Tuenti,16.00
+1/6/2016,Alfonso,Ripley,Huawei,Movistar,5.00
+11/9/2014,Joaquin,Metro,LG,Movistar,7.00
+30/6/2017,Milenka,Metro,Huawei,Bitel,33.00
+17/1/2014,Sandra,Oeschle,Apple,Tuenti,230.00
+12/11/2017,Sandra,Tottus,Samsung,Claro,17.00
+20/12/2014,Rodrigo,Metro,Samsung,Bitel,4.00
+13/4/2017,Joaquin,Ripley,Nokia,Claro,23.00
+7/8/2017,Fabiola,Metro,Apple,Bitel,75.00
+3/5/2015,Alfonso,Ripley,Samsung,Movistar,12.00
+13/6/2017,Sandra,Tottus,Samsung,Claro,7.00
+21/6/2016,Milenka,Tottus,LG,Entel,201.00
+30/6/2015,Sandra,Metro,Samsung,Tuenti,18.00
+2/11/2015,Fabiola,Metro,Apple,Claro,19.00
+19/9/2016,Joaquin,Tottus,Nokia,Entel,19.00
+9/9/2015,Alfonso,Ripley,Huawei,Bitel,10.00
+5/6/2015,Alfonso,Plaza Vea,LG,Claro,17.00
+26/8/2014,Alfonso,Tottus,Huawei,Claro,31.00
+19/9/2015,Joaquin,Plaza Vea,Apple,Claro,48.00
+27/4/2018,Alfonso,Plaza Vea,Samsung,Movistar,18.00
+11/5/2018,Fabiola,Tottus,LG,Movistar,24.00
+21/2/2014,Joaquin,Ripley,Apple,Entel,70.00
+15/10/2014,Joaquin,Tottus,Samsung,Claro,78.00
+6/6/2016,Sandra,Tottus,Nokia,Claro,107.00
+15/10/2018,Milenka,Tottus,Huawei,Claro,43.00
+6/6/2018,Sandra,Plaza Vea,Samsung,Entel,108.00
+24/11/2018,Alfonso,Ripley,Samsung,Bitel,1.00
+15/10/2018,Fabiola,Ripley,Samsung,Tuenti,82.00
+13/3/2016,Fabiola,Saga Falabella,Nokia,Movistar,1.00
+26/2/2015,Fabiola,Ripley,Apple,Bitel,27.00
+22/1/2017,Fabiola,Metro,LG,Movistar,1.00
+11/6/2016,Milenka,Metro,Apple,Movistar,9.00
+5/3/2016,Alfonso,Plaza Vea,Huawei,Entel,128.00
+28/4/2017,Joaquin,Metro,Apple,Tuenti,9.00
+1/2/2016,Fabiola,Saga Falabella,LG,Tuenti,6.00
+6/7/2014,Sandra,Tottus,Huawei,Tuenti,130.00
+6/9/2015,Alfonso,Plaza Vea,LG,Claro,70.00
+14/3/2016,Joaquin,Tottus,Apple,Entel,172.00
+4/7/2017,Sandra,Ripley,LG,Tuenti,34.00
+17/1/2018,Rodrigo,Tottus,Nokia,Entel,209.00
+18/9/2016,Rodrigo,Oeschle,Motorola,Movistar,3.00
+30/7/2016,Sandra,Tottus,LG,Movistar,2.00
+8/10/2018,Rodrigo,Saga Falabella,Motorola,Entel,38.00
+8/6/2018,Joaquin,Oeschle,Apple,Claro,81.00
+7/2/2015,Sandra,Plaza Vea,LG,Entel,87.00
+12/5/2018,Alfonso,Saga Falabella,Nokia,Bitel,4.00
+13/2/2015,Sandra,Tottus,Motorola,Tuenti,283.00
+12/11/2016,Rodrigo,Ripley,Nokia,Tuenti,24.00
